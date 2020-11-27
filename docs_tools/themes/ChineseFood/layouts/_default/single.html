@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div class="ui container">
+ 
+  <div class="ui banner test ad" data-text="栏"></div>
+      <article role="main" class="blog-post ui     container">
+        {{ .Content }}
+      </article>
+
+
+
+
+
+
+      <div class="ui pagination menu">
+        {{ if .PrevInSection }}
+        <a  class="item"  href="{{ .PrevInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .PrevInSection.Title }}">
+          &larr; {{ i18n "previousPost" }}</a>
+          {{ end }}
+          {{ if .NextInSection }}
+        <a class="item" href="{{ .NextInSection.Permalink }}" data-toggle="tooltip" data-placement="top" title="{{ .NextInSection.Title }}">{{ i18n "nextPost" }} &rarr;</a>
+        {{ end }}
+      </div>
+
+
+
+
+ 
+
+      {{ if (.Params.comments) | or (and (or (not (isset .Params "comments")) (eq .Params.comments nil)) (.Site.Params.comments)) }}
+        {{ if .Site.DisqusShortname }}
+          <div class="disqus-comments">
+            {{ template "_internal/disqus.html" . }}
+          </div>
+        {{ end }}
+      {{ end }}
+
+ 
+ 
+</div>
+{{ end }}

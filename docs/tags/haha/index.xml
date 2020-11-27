@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haha on Docs</title>
+    <link>./tags/haha/</link>
+    <description>Recent content in Haha on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Sat, 14 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/haha/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>哈哈这个是牛逼的调诐</title>
+      <link>./post/2020-11-14-%E5%93%88%E5%93%88%E8%BF%99%E4%B8%AA%E6%98%AF%E7%89%9B%E9%80%BC%E7%9A%84%E8%B0%83%E8%AF%90/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-11-14-%E5%93%88%E5%93%88%E8%BF%99%E4%B8%AA%E6%98%AF%E7%89%9B%E9%80%BC%E7%9A%84%E8%B0%83%E8%AF%90/</guid>
+      <description> Hello, World! </description>
+    </item>
+    
+  </channel>
+</rss>
