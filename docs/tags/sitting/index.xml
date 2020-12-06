@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sitting on Docs</title>
+    <link>./tags/sitting/</link>
+    <description>Recent content in Sitting on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/sitting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Sitting down for a real romance with Lin Feng? The first time I saw a dog, I thought it was a dog. </title>
+      <link>./post/2020-12-01/f35b69f865291a94746edfe962a3a4cb/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/f35b69f865291a94746edfe962a3a4cb/</guid>
+      <description> Sitting down for a real romance with Lin Jianli? The first time I saw a dog, I thought it was a dog. </description>
+    </item>
+    
+  </channel>
+</rss>

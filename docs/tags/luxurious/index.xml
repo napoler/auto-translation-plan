@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luxurious on Docs</title>
+    <link>./tags/luxurious/</link>
+    <description>Recent content in Luxurious on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/luxurious/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Is this &#34;cat&#39;s nest&#34; too luxurious? Silicon Valley Pet Cats Live in $1,500 Apartments </title>
+      <link>./post/2020-12-01/559440e623c10da58705f77083acde88/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/559440e623c10da58705f77083acde88/</guid>
+      <description>[
+Online transmission of audiovisual programs license (0106168)
+] [
+京ICP备证040655号
+] [京公网安备:110102003042-1] [
+京ICP备05004340号-1
+] Switchboard: 86-10-87826688
+Copyright ©1999- 2020 chinanews.com.</description>
+    </item>
+    
+  </channel>
+</rss>

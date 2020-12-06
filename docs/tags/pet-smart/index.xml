@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pet Smart on Docs</title>
+    <link>./tags/pet-smart/</link>
+    <description>Recent content in Pet Smart on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/pet-smart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Covering the cat &#34;eat, drink, shit, sleep&#34; pet smart home is a gimmick or a windfall? </title>
+      <link>./post/2020-12-01/f1dbc650d7323180d35d23600f9ce43d/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/f1dbc650d7323180d35d23600f9ce43d/</guid>
+      <description>Covering the cat&amp;rsquo;s &amp;ldquo;eat, drink, shit, sleep&amp;rdquo; is the pet smart home a gimmick or a windfall? ##
+** Original title:**
+The sensor detects when your pet is in the automatic cat toilet and flushes it automatically.
+File photo
+During the May Day holiday this year, Xiaosu left her two cats at home in Beijing. &amp;ldquo;The house is monitored by a &amp;lsquo;pet camera&amp;rsquo; in real time, as well as an automatic feeder and water dispenser.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beast on Docs</title>
+    <link>./tags/beast/</link>
+    <description>Recent content in Beast on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/beast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Man Discovers &#34;Mystery Cave&#34;, Pours Coke in, and Out Came the &#34;Beast&#34;! </title>
+      <link>./post/2020-12-01/44d4689cafcf082666cdd8cc9d241cc3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/44d4689cafcf082666cdd8cc9d241cc3/</guid>
+      <description>2020-11-24 20:31:37 Source: Colorful Kite Tour says
+Report
+**Man discovers &amp;ldquo;mystery cave&amp;rdquo;, pours Coke in, and out comes the &amp;ldquo;beast&amp;rdquo;! ***
+Burrows are a great hiding place for many creatures. A small anteater was looking for ants when it was discovered by a hyena. The anteater was no match for the hyena and found a burrow when it was about to lose its life, and dug in to avoid the hyena&amp;rsquo;s pursuit.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Message on Docs</title>
+    <link>./tags/message/</link>
+    <description>Recent content in Message on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/message/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Is pre-sale of real estate the same as fraud? The People&#39;s Daily speaks out and the developers are not sitting still! </title>
+      <link>./post/2020-12-01/50e9bc3394a44cced3ef9d40b3c6752f/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/50e9bc3394a44cced3ef9d40b3c6752f/</guid>
+      <description>Now that winter is approaching everywhere, with snow already falling in some areas in the north and cooling temperatures and cold winds in the south, how are those living in rotten buildings doing in such weather conditions? With six wallets and a 30-year loan, they ended up with an empty concrete frame, some of which are still dirt pits to this day, and no water or electricity.
+All of this comes from the pre-sale of real estate from outside the country into the inland system, but just 20 years, has become the industry norm, this system is intended to be good, objectively speaking for the real estate market construction cycle, scale expansion has certain positive effects, but &amp;ldquo;pre-sale&amp;rdquo; is more a test of the spirit of contract between people, trust!</description>
+    </item>
+    
+  </channel>
+</rss>

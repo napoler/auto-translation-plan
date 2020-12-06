@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Falcon on Docs</title>
+    <link>./tags/falcon/</link>
+    <description>Recent content in Falcon on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/falcon/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Peregrine Falcon&#39;s Desire for Nowhere to Rest - In 1960, experts helped save the peregrine falcon from extinction with &#34;sperm caps&#34; </title>
+      <link>./post/2020-12-01/9b9b4207d548a549f497a6d4616e9b17/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9b9b4207d548a549f497a6d4616e9b17/</guid>
+      <description>One pet that has been criticized in the pet world is the Teddy. Teddy is actually a grooming option for poodles, but over time has been called what they are called. The male Teddy, as an adult, has a lot of energy and an excessive thirst for the opposite sex, leading them to develop the habit of hugging their lap at home and doing too many things outside that cannot be seen.</description>
+    </item>
+    
+  </channel>
+</rss>

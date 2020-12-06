@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sheepdog on Docs</title>
+    <link>./tags/sheepdog/</link>
+    <description>Recent content in Sheepdog on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/sheepdog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> If you&#39;re looking for a job, what else can your silly dog do but be cute? </title>
+      <link>./post/2020-12-01/dcc3b937c307d3adad9ea7b78b9dec5b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/dcc3b937c307d3adad9ea7b78b9dec5b/</guid>
+      <description>Original: SME SME Technology Story
+The physical differences in modern pet dogs are enormous. However, taxonomically, dogs and wolves all over the world belong to the same species. They are both capable of producing fertile offspring, whether in artificial or natural conditions.
+But domestic dogs have made the right choice in abandoning wolfdogs. Today, there are only a few hundred thousand gray wolves in the wild, but domestic dogs are all over the world.</description>
+    </item>
+    
+  </channel>
+</rss>

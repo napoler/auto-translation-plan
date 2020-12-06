@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Managers on Docs</title>
+    <link>./tags/managers/</link>
+    <description>Recent content in Managers on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/managers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The number of unsolicited stray dogs in Wuxi has increased dramatically, and the dog infestation has hit the city management &#34;pain point&#34;. </title>
+      <link>./post/2020-12-01/a1937986db14198cb032faf14bb79896/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a1937986db14198cb032faf14bb79896/</guid>
+      <description>Recently, a video of a stray dog being beaten with a stick in Wuxi, Jiangsu province has been circulating on the Internet, triggering some domestic pet protection organizations to voice their doubts, resulting in the formation of &amp;ldquo;support for cleaning up stray dogs&amp;rdquo; and &amp;ldquo;against the abuse of stray dogs&amp;rdquo;. &amp;ldquo;and other almost opposing viewpoints, in the online public opinion forum formed a heated debate between dog lovers and dog-averse netizens.</description>
+    </item>
+    
+  </channel>
+</rss>

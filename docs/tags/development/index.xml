@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Docs</title>
+    <link>./tags/development/</link>
+    <description>Recent content in Development on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Global Neocrown Outbreak Affects Wildlife Conservation </title>
+      <link>./post/2020-12-01/c05644cffe85e45e22fe4c2501a7eba6/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/c05644cffe85e45e22fe4c2501a7eba6/</guid>
+      <description>Dan Zhao
+According to the Washington Post, wildlife refuges and ecotourism around the world are facing new threats as a result of the new crown epidemic, and the impact on wildlife and people is being felt and is expected to be far-reaching.
+As a result of epidemic prevention and control measures such as border closures and visa restrictions in many countries, most of the world&amp;rsquo;s tourist destinations have been forced to shut down, including national parks, game reserves and wildlife sanctuaries in Africa, Asia and elsewhere, resulting in a significant decline in wildlife tourism revenues and a cutback in funding for programs that support wildlife conservation.</description>
+    </item>
+    
+  </channel>
+</rss>

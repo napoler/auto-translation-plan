@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heart on Docs</title>
+    <link>./tags/heart/</link>
+    <description>Recent content in Heart on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/heart/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> World of Warcraft 9.0 Faerie Night Covenant Skill Soul Transformation Form Source List! </title>
+      <link>./post/2020-12-01/c0285064b4d36f2b71fce7ffc15c84ec/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/c0285064b4d36f2b71fce7ffc15c84ec/</guid>
+      <description>1
+Spirit of the Horned Horse
+11 Prestige Rank unlocks the French Night Covenant Campaign: the Curse of the Moonlit Warlord, with quest completion rewards.
+2
+Spirit of the Incandescent Blue Moth
+22 Prestige Rank unlocks the French Night Covenant Campaign: return to Druster, reward for completing the mission.
+3
+Spirit of the Wolf
+The Court of the Enchanted Night&amp;rsquo;s Reputation is friendly and can be purchased at 59.6 in the Winter Woods Valley and 52.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Roles on Docs</title>
+    <link>./tags/roles/</link>
+    <description>Recent content in Roles on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/roles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> There is a kind of &#34;plastic surgery&#34; called Pauline Lantern&#39;s asthma dog, now in uniform, handsome unrecognizable! </title>
+      <link>./post/2020-12-01/1dc478d9e8ebac1d075fb37ebf386085/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/1dc478d9e8ebac1d075fb37ebf386085/</guid>
+      <description>One drama that just aired and attracted a large number of fans and is now a household name is &amp;ldquo;Baolian Lantern&amp;rdquo;. When this drama was aired, the response was really great. The drama tells the story of the man, Shen Xiang, who uses an axe to chop the mountain to save his mother. Because of this drama, a lot of people have been fired, for example, the lead role of Erlang Shen, played by Jiao Junen, whose outstanding appearance made the audience think that he was the original Erlang Shen.</description>
+    </item>
+    
+  </channel>
+</rss>

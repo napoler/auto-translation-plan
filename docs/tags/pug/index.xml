@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pug on Docs</title>
+    <link>./tags/pug/</link>
+    <description>Recent content in Pug on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/pug/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Double Cut Pug Tour Download </title>
+      <link>./post/2020-12-01/1353168770b31a25c7d4fcfd02242635/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/1353168770b31a25c7d4fcfd02242635/</guid>
+      <description>This game uses the classic horizontal adventure gameplay, in which players control a cute and nerdy pug dog, this dog can have a magical ability, players need to use this ability to complete a variety of challenges, rich and varied levels will surely bring players a richer experience.
+&amp;ldquo;Double Cut Pug&amp;rdquo; Game Advantages.  Find purple coins hidden in the level and use them to unlock more items.
+ unlock different props in the game, which can help players pass levels easily.</description>
+    </item>
+    
+  </channel>
+</rss>

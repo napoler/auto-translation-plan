@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dental on Docs</title>
+    <link>./tags/dental/</link>
+    <description>Recent content in Dental on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/dental/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Haven&#39;t you been to the &#34;Mecca&#34; of the world of dentistry? </title>
+      <link>./post/2020-12-01/e09fa32ff698cdf3962078f726c64c8c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e09fa32ff698cdf3962078f726c64c8c/</guid>
+      <description>2020-11-28 07:17:39 Source: Qingdao Trip
+Report
+On November 5, the thirteen dynasties ancient capital of Xi&amp;rsquo;an added a new business card - located in the Third Affiliated Hospital of Air Force Military Medical University, the International Dental Museum held a grand opening ceremony, open to the public free of charge. So, some people have questions, why a museum can be called Xi&amp;rsquo;an&amp;rsquo;s new business card? The following contents will answer your questions.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lt on Docs</title>
+    <link>./tags/lt/</link>
+    <description>Recent content in Lt on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/lt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A dog that is the sole pet of the wealthy &#34;queen of misery&#34;. </title>
+      <link>./post/2020-12-01/947bcafdbe8ef533391d96c7ce9f1ce1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/947bcafdbe8ef533391d96c7ce9f1ce1/</guid>
+      <description>123
+There are a lot of rich people in the pet world, and there is a number one price tag. The $375 million German Shepherd, Gunther IV, and also Toby Rimes, the dog world&amp;rsquo;s celebrity poodle, are worth $12 million, one rich and the other impeccably beautiful.
+WEALTH
+Unlike them, today&amp;rsquo;s story is about a dog who is famous not only for his wealth, but also for his surprising way of being spoiled, for his owner who left a huge inheritance to his dog but not to his grandchildren, which is also the origin of his owner&amp;rsquo;s nickname &amp;ldquo;the queen of miserliness&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

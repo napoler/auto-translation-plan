@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fighting on Docs</title>
+    <link>./tags/fighting/</link>
+    <description>Recent content in Fighting on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/fighting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Hyenas and African wild dogs are similar in size, but why do they say that the wild dog must win in a race between the two? </title>
+      <link>./post/2020-12-01/496bc073d44f2a8b1d3d22e29cfda77e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/496bc073d44f2a8b1d3d22e29cfda77e/</guid>
+      <description>Hyenas and African wild dogs are similar in size, but why do they say that the wild dog must win in a race between the two?
+Nature can be very cruel, and one must always be on the lookout for animals that might sneak up on you, as this competition is the difference between life and death. In the African grasslands, there are two types of animals, hyenas and wild African dogs, which are about the same size.</description>
+    </item>
+    
+  </channel>
+</rss>

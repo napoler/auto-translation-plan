@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hck on Docs</title>
+    <link>./tags/hck/</link>
+    <description>Recent content in Hck on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/hck/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> [UNK] Generation youth exclusive goodies! [UNK] Haskell x Coca-Cola Co-branded Ice Bar </title>
+      <link>./post/2020-12-01/6d6c1ae00c8d82d4dcf4ffac97838a2b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/6d6c1ae00c8d82d4dcf4ffac97838a2b/</guid>
+      <description>Designed by POP Art&amp;rsquo;s representative designer, the Coke bottle cap is paired with Coca-Cola&amp;rsquo;s classic red, plus HCK Haskell&amp;rsquo;s classic square ice bar that has been selling well in Europe and America for decades. It is a blend of retro trends and new age technology, a classic and avant-garde lifestyle that belongs to the Z era.
+HCK Haskell&amp;rsquo;s Ice Bar has a long history. As a classic product that has been selling well in Europe and America for decades, it has a good reputation and the quality is guaranteed!</description>
+    </item>
+    
+  </channel>
+</rss>

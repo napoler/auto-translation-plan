@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Innocent on Docs</title>
+    <link>./tags/innocent/</link>
+    <description>Recent content in Innocent on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/innocent/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A black-faced, bitter, ugly, ugly pug, do you like it? </title>
+      <link>./post/2020-12-01/71ac7a9525d12e2974526d5217bf74bb/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/71ac7a9525d12e2974526d5217bf74bb/</guid>
+      <description>2020-11-21 07:56:48 Source: Enlightenment Education
+Report
+However, there is one kind of dog that looks bitter and unhappy, and this kind of dog is the Pug.
+At first glance, the black face and furrowed brow of a pug always make you think that it is unhappy, and you can&amp;rsquo;t help but feel an urge to protect it. However, the personality of the Pug has nothing to do with this world-weary, sad appearance.</description>
+    </item>
+    
+  </channel>
+</rss>

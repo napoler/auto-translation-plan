@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shovelers on Docs</title>
+    <link>./tags/shovelers/</link>
+    <description>Recent content in Shovelers on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/shovelers/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> &#34;The shovelers wanted to work undisturbed, so they bought the same computer for the meow!&#34; Hahaha  </title>
+      <link>./post/2020-12-01/6a24426f9ce851df018c54b894db2976/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/6a24426f9ce851df018c54b894db2976/</guid>
+      <description>Shovelman: Well, Your Holiness, now that you have your own computer, don&amp;rsquo;t interrupt my work!
+Shovel: You use your own computer!
+Meow: Uh&amp;hellip;. You&amp;rsquo;re not fooling me, are you, shoveling shit?
+Meow: What else does this thing do but take selfies?</description>
+    </item>
+    
+  </channel>
+</rss>

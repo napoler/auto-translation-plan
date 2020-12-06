@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gene on Docs</title>
+    <link>./tags/gene/</link>
+    <description>Recent content in Gene on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/gene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The Mutant &#34;Weird&#34; Sphinx Cat, So Gentle! </title>
+      <link>./post/2020-12-01/ea605cf97e57ef538a2f6310cc2b566a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ea605cf97e57ef538a2f6310cc2b566a/</guid>
+      <description>It&amp;rsquo;s like something out of the movie &amp;ldquo;ET&amp;rdquo;. It, with its unique and bizarre shape, has a scowl written all over it. It, with wrinkles as if it were a genetic mutation monster. It, the Sphinx cat.
+The Sphinx, also known as the Canadian Hairless Cat, is loved beyond words by some people, while those who are used to furry cats may find the Sphinx&amp;rsquo;s appearance too frightening. The Sphinx is gentle, intelligent and agile, and is loved by people with cat hair allergies, but the Sphinx is not completely hairless.</description>
+    </item>
+    
+  </channel>
+</rss>

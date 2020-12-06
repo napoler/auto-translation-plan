@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mountains on Docs</title>
+    <link>./tags/mountains/</link>
+    <description>Recent content in Mountains on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/mountains/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The chauffeur was chased up the hill by a pack of wild dogs in the early hours of the morning! He took a picture with his cell phone in the darkness and collapsed instantly </title>
+      <link>./post/2020-12-01/876841f843065726ba2812ef38a2453a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/876841f843065726ba2812ef38a2453a/</guid>
+      <description>The chauffeur was chased up the hill by a pack of wild dogs in the early hours of the morning! He took a picture with his cell phone in the darkness and collapsed instantly&amp;hellip; 2020-08-17 17:46 Source: Breaking News - Breaking News - Media
+In the early morning of August 17th, the police station in Hangzhou, Zhejiang Province, West Lake District received a tired voice: I&amp;rsquo;m a chauffeur, I&amp;rsquo;m being chased by wild dogs, in the mountains, I can&amp;rsquo;t get down!</description>
+    </item>
+    
+  </channel>
+</rss>

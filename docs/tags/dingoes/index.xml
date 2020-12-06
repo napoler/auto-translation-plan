@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dingoes on Docs</title>
+    <link>./tags/dingoes/</link>
+    <description>Recent content in Dingoes on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/dingoes/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Is the Australian dingo an escaped stray or an intruder who never obeyed? </title>
+      <link>./post/2020-12-01/ca6c86856ae4a7b80f5f947649edc7ea/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ca6c86856ae4a7b80f5f947649edc7ea/</guid>
+      <description>Are Australian dingoes (dingoes) runaways from home or intruders who never submit? | BMC Journal
+Title: The Australian dingo: untamed or feral?
+Journal: Frontiers in Zoology
+By J. William O. Ballard and Laura A. B. Wilson
+Published: 2019/02/13
+Digital ID: 10.1186/s12983-019-0300-6
+Link to original article: http://t.cn/Eo3igHg
+We believe the link: https://mp.weixin.qq.com/s/wy63yERsTo1ABzPNXV4A3A
+Is the Australian wild dog an escaped wild (feral) animal or an untamed animal that has never been tamed? It is important to clarify this issue because the Australian government has a policy that considers the Australian wild dog to be a wild animal and therefore allows for their widespread hunting.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,14 +1,29 @@
 {{ define "main" }}
-<div class="ui container">
- 
-  <div class="ui banner test ad" data-text="栏"></div>
+<div class="ui main text container">
+ <div class="column"> 
       <article role="main" class="blog-post ui     container">
+        {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+ 
         {{ .Content }}
+
+        {{ with .Params.tags }}
+        <div id="tags">
+          <h3>Tags</h3>
+          {{ range . }}
+            <div class="ui mini label"> <a href='{{ "tags" | absURL }}/{{ . | urlize }}'>{{ . }}</a> </div>
+          {{ end }}
+        </div>
+        {{ end }}
+
+
       </article>
 
 
 
 
+    {{ partial "related.html" . }}
+
+    <div class="column">      {{ partial "related_new.html" . }}</div>
 
 
       <div class="ui pagination menu">
@@ -34,7 +49,17 @@
         {{ end }}
       {{ end }}
 
- 
+    </div>
+
+
+
+
+
+
+
+
+
+
  
 </div>
 {{ end }}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Period on Docs</title>
+    <link>./tags/period/</link>
+    <description>Recent content in Period on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/period/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> You know what? The &#34;clinginess&#34; of male and female cats is not the same! </title>
+      <link>./post/2020-12-01/fc6588b59a52efe7dd81476f9db2a70f/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/fc6588b59a52efe7dd81476f9db2a70f/</guid>
+      <description>Why are other cats so clingy, but your cat is a bit cold and impersonal?
+No matter how nice you are to your cat, it doesn&amp;rsquo;t seem to want to come near you.
+In fact, the degree of a cat&amp;rsquo;s clinginess is related to many factors.
+For example, the gender of the cat, the temperature of the weather, and whether the cat has needs.
+-01
+Male cats are more clingy than female cats.</description>
+    </item>
+    
+  </channel>
+</rss>

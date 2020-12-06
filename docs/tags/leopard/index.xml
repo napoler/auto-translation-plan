@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leopard on Docs</title>
+    <link>./tags/leopard/</link>
+    <description>Recent content in Leopard on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/leopard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A &#34;cat&#34; came to the house, with a fierce temper, and alarmed the police! </title>
+      <link>./post/2020-12-01/ab96a690d1a8b2ace91977c641067c37/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ab96a690d1a8b2ace91977c641067c37/</guid>
+      <description>Source: City Scene Chongqing News Channel
+May not be reproduced without permission.
+On November 24, a cat came to a resident&amp;rsquo;s home in Bai Shi Yi, Chongqing Hi-Tech Zone, and at first the resident wanted to tease the cat, but later, he had to call the police for help, what kind of cat still needs police action?
+The cat, whose face resembled that of a leopard, also had spots and stripes that differed from those of a typical domestic cat.</description>
+    </item>
+    
+  </channel>
+</rss>

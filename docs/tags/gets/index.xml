@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gets on Docs</title>
+    <link>./tags/gets/</link>
+    <description>Recent content in Gets on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/gets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A stray cat climbs 25 floors every day and knocks on doors asking for food, how does he do it? How to remember the floors </title>
+      <link>./post/2020-12-01/35da6127cb17fedb905e6174f298bd88/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/35da6127cb17fedb905e6174f298bd88/</guid>
+      <description>For example, a domestic cat will become a stray cat after being abandoned, and a stray cat will gradually become a domestic cat after being adopted, so in everyone&amp;rsquo;s subconscious mind, stray cats and domestic cats are the same kind of animal.
+But as I understand more and more about stray cats, I find that stray cats and domestic cats are simply 2 different kinds of animals.
+Because stray cats are so smart, they sometimes do things that would surprise a human being like me, but recently, I was shocked by a stray cat, and it happened to me.</description>
+    </item>
+    
+  </channel>
+</rss>

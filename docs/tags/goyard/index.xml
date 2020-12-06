@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Goyard on Docs</title>
+    <link>./tags/goyard/</link>
+    <description>Recent content in Goyard on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/goyard/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Personalized hand-painted art of [UNK] Pet Dogs and [UNK] [UNK] Pet Cats </title>
+      <link>./post/2020-12-01/ba938e905969fb6f96370f1525abe596/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ba938e905969fb6f96370f1525abe596/</guid>
+      <description>For a long time, Goyard has shown respect for traditional craftsmanship while maintaining a passion for innovation. This time, two exclusive personalized hand-painted designs pay homage to another classic Goyard creation - the Goyard&amp;rsquo;s Chic du Chien collection.
+Goyard looks to its extensive historical archives for inspiration: SUPER The CAT pet cat was based on a cat in a vintage Goyard catalog and is lucky, mysterious, agile and independent, while the HULOT pet dog was designed by Edmond Derived from the blockbuster advertising campaign starring Mr.</description>
+    </item>
+    
+  </channel>
+</rss>

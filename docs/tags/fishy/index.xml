@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fishy on Docs</title>
+    <link>./tags/fishy/</link>
+    <description>Recent content in Fishy on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/fishy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Science shows that owning a dog is good for longevity, do you believe it? </title>
+      <link>./post/2020-12-01/b8eba83b8cf3e94540ac22c551e1e272/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/b8eba83b8cf3e94540ac22c551e1e272/</guid>
+      <description>2020-11-27 23:07:16 Source: Basketball Bunny
+Report
+Scientific studies have shown that owning a dog is good for longevity, do you believe it? Let&amp;rsquo;s take a look at the reasons why we say that!
+In a study, Dog Ownership and Survival After a Major Cardiovascular Disease, the results of a study were published. In the paper, &amp;ldquo;Dog Ownership and Survival After Major Cardiovascular Events,&amp;rdquo; Swedish scientists tracked the mortality data of all patients aged 40 to 85 years who died of acute myocardial infarction and ischemic stroke from 2001 to 2012 and concluded that dog owners gained the following additional health benefits compared to those who did not own a dog.</description>
+    </item>
+    
+  </channel>
+</rss>

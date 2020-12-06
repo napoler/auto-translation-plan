@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Docs</title>
+    <link>./tags/home/</link>
+    <description>Recent content in Home on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> &#34;Yang&#39;s cat has been found, and they say it&#39;s used in this way, so come in and learn!&#34; Hahaha  </title>
+      <link>./post/2020-12-01/9be737e8c125821694a7f9cac80afa7b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9be737e8c125821694a7f9cac80afa7b/</guid>
+      <description>A few days ago, I found a hot search on Weibo: #Yang Gao&amp;rsquo;s cat is lost#.
+It is known that the golden gradient layer, called Tangerine, is a little baby raised by Yang Gao.
+But on November 11, the little tangerine, which was placed in a relative&amp;rsquo;s home, suddenly ran away from home.
+When she learned the news, her sister sent out a message at midnight asking for help: &amp;ldquo;Just be safe and don&amp;rsquo;t wander the streets!</description>
+    </item>
+    
+    <item>
+      <title> A stray cat climbs 25 floors every day and knocks on doors asking for food, how does he do it? How to remember the floors </title>
+      <link>./post/2020-12-01/35da6127cb17fedb905e6174f298bd88/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/35da6127cb17fedb905e6174f298bd88/</guid>
+      <description>For example, a domestic cat will become a stray cat after being abandoned, and a stray cat will gradually become a domestic cat after being adopted, so in everyone&amp;rsquo;s subconscious mind, stray cats and domestic cats are the same kind of animal.
+But as I understand more and more about stray cats, I find that stray cats and domestic cats are simply 2 different kinds of animals.
+Because stray cats are so smart, they sometimes do things that would surprise a human being like me, but recently, I was shocked by a stray cat, and it happened to me.</description>
+    </item>
+    
+  </channel>
+</rss>

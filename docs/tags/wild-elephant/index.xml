@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wild Elephant on Docs</title>
+    <link>./tags/wild-elephant/</link>
+    <description>Recent content in Wild Elephant on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/wild-elephant/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cats are fierce too! A 4-ton wild elephant in Thailand broke into a residential area to steal food and was scared off by the roar of a pet cat. </title>
+      <link>./post/2020-12-01/de8e6a684866d91f0abb180c10909e5a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/de8e6a684866d91f0abb180c10909e5a/</guid>
+      <description>2020-11-26 21:35:04 Source: Six Dimensions Nature
+Report
+In the food chain, herbivores have an instinctive fear of carnivores. In general, herbivores will choose to hide when they encounter carnivores. The wild elephant is dozens of times the size of a pet cat, so is the pet cat too fierce, or is the wild elephant too alert?
+Description: The elephant is a wild male elephant. The elephant is also quite famous in the area, because at night, this elephant will go around breaking into people&amp;rsquo;s homes, looking for food, the local residents can not do anything, because wild elephants are protected animals, can only notify the relevant authorities, to drive it into the jungle again, but can not harm the elephant.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hunting on Docs</title>
+    <link>./tags/hunting/</link>
+    <description>Recent content in Hunting on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/hunting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> African Wild Dogs Exercise &#34;Voting Rights&#34; by Sneezing Ideographs </title>
+      <link>./post/2020-12-01/0b1da1f091d84aaeb045c4150df50214/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/0b1da1f091d84aaeb045c4150df50214/</guid>
+      <description>An international research team has found that African wild dogs exercise a &amp;ldquo;vote&amp;rdquo; by sneezing to determine whether the pack will hunt.
+The endangered animal takes a break from hunting and then gathers for a &amp;ldquo;social gathering&amp;rdquo; to &amp;ldquo;negotiate&amp;rdquo; whether or not to launch a new hunt collectively.
+The researchers observed and analyzed 68 &amp;ldquo;social gatherings&amp;rdquo; of five groups of African wild dogs in Botswana&amp;rsquo;s Okavango Delta and found that &amp;ldquo;sneezing plays a role in voting, and the more sneezes, the more likely the dogs are to set out on a hunt.</description>
+    </item>
+    
+  </channel>
+</rss>

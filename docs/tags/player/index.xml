@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Player on Docs</title>
+    <link>./tags/player/</link>
+    <description>Recent content in Player on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/player/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> 12 wins in the arena in May, the first Meowth 501 interview! </title>
+      <link>./post/2020-12-01/73d5828d622f5048af9a1c10cdc4757d/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/73d5828d622f5048af9a1c10cdc4757d/</guid>
+      <description>Hearthstone Legend May arena 12 wins ranked number one mystery man &amp;ldquo;Meow 501&amp;rdquo; interview.
+About Individuals
+geyuan6: Hi 501, you&amp;rsquo;re #1 in the arena May rankings just released by China National Service, congratulations! I&amp;rsquo;m not sure if I&amp;rsquo;ve got the right stuff for you.
+The first thing you need to do is to get your own copy of the book. A lot of people have been in the business for a long time.</description>
+    </item>
+    
+    <item>
+      <title> Double Cut Pug Tour Download </title>
+      <link>./post/2020-12-01/1353168770b31a25c7d4fcfd02242635/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/1353168770b31a25c7d4fcfd02242635/</guid>
+      <description>This game uses the classic horizontal adventure gameplay, in which players control a cute and nerdy pug dog, this dog can have a magical ability, players need to use this ability to complete a variety of challenges, rich and varied levels will surely bring players a richer experience.
+&amp;ldquo;Double Cut Pug&amp;rdquo; Game Advantages.  Find purple coins hidden in the level and use them to unlock more items.
+ unlock different props in the game, which can help players pass levels easily.</description>
+    </item>
+    
+  </channel>
+</rss>

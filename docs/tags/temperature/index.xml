@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Temperature on Docs</title>
+    <link>./tags/temperature/</link>
+    <description>Recent content in Temperature on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/temperature/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Adorable! Zoo wildlife health check for winter </title>
+      <link>./post/2020-12-01/e326bb20f5996bfbc4272420a917905e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e326bb20f5996bfbc4272420a917905e/</guid>
+      <description>On November 26, Shandong Qingdao Forest Wildlife World conducted a physical examination of kangaroos, ring-tailed lemurs, lion cubs, golden pythons and other primate, carnivorous, herbivorous, omnivorous and two-reptile wildlife. A veterinarian is giving a physical examination to a kangaroo.
+According to the introduction, as the temperature gets cooler after winter, small animals are more prone to gastrointestinal diseases, colds and other symptoms. Qingdao Forest Wildlife World carries out physical examinations and preventive measures for wild animals through physical observation, temperature measurement by auscultation, blood sampling, ultrasound testing, vaccination, feeding deworming drugs and other methods to ensure the health and safety of wild animals in winter.</description>
+    </item>
+    
+  </channel>
+</rss>

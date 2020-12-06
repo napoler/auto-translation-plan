@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conditions on Docs</title>
+    <link>./tags/conditions/</link>
+    <description>Recent content in Conditions on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/conditions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Ola Good Cat will go on sale tonight with a pre-sale price of RMB 10.50-14.50 million. </title>
+      <link>./post/2020-12-01/f22e4e8340dde685a83783f8eb85c5d0/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/f22e4e8340dde685a83783f8eb85c5d0/</guid>
+      <description>Easy Car Newsletter It is reported that the Ola Cat will go on sale tonight (November 24), and the new car is based on Great Wall Motor&amp;rsquo;s Lemon+Coffee intelligent platform. The new car will be available in two range-extended versions, and its announced pre-sale price is RMB 105,000-145,000.
+The new car adopts a new design language, which is different from the simple &amp;ldquo;Q-moe&amp;rdquo; style of the Ola Black Cat and White Cat.</description>
+    </item>
+    
+  </channel>
+</rss>

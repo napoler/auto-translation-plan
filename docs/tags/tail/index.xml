@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tail on Docs</title>
+    <link>./tags/tail/</link>
+    <description>Recent content in Tail on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/tail/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> How many interesting languages do you know about cats? </title>
+      <link>./post/2020-12-01/596a5f4ded4afc58ca12ef818c8117a2/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/596a5f4ded4afc58ca12ef818c8117a2/</guid>
+      <description>Interesting Facts about Cats
+Cats have a unique language. For those who like to have cats as pets, there are some interesting cat facts that can help you understand your pet better. It&amp;rsquo;s also interesting.
+Cats communicate through their tails.
+Cats communicate with their tails. Noticing a cat&amp;rsquo;s tail usually tells you its mood, and you can act accordingly. Different tail positions have different meanings and intentions.
+Dragging tail: This can mean that your pet is scared or threatened.</description>
+    </item>
+    
+  </channel>
+</rss>

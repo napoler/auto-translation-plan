@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Better on Docs</title>
+    <link>./tags/better/</link>
+    <description>Recent content in Better on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/better/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Heroic Military Dogs Save Special Forces in Distress, Awarded Top Animal Honors </title>
+      <link>./post/2020-12-01/e82e91e4d8591dca8a3f37a4cc61b83f/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e82e91e4d8591dca8a3f37a4cc61b83f/</guid>
+      <description>Kuno, a Belgian Shepherd from the British Special Forces, was able to save a number of British Special Forces soldiers when his unit was caught in a grenade attack and machine gun fire, according to a Nov. 24 article in the British newspaper Metro.
+Unfortunately, Kuno was shot in both of his hind legs, and had to have one of his paws removed and be fitted with a custom-made prosthetic leg.</description>
+    </item>
+    
+  </channel>
+</rss>

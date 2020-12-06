@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David on Docs</title>
+    <link>./tags/david/</link>
+    <description>Recent content in David on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/david/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A guide dog with cancer fought to the death to return to its owner after dying (Figure) </title>
+      <link>./post/2020-12-01/f11d9812eb9b061bddf59afb0ea8c5f9/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/f11d9812eb9b061bddf59afb0ea8c5f9/</guid>
+      <description>Guide dog Kermit is pictured with his blind owner, David.
+A dog is man&amp;rsquo;s friend. A recent story from the United Kingdom proves this old adage once again. An eight-year-old guide dog named Kermit, who was suffering from cancer, did his best at the end of his life, trying with every fiber of his being to get his blind owner, David, from Birmingham to his home in Huddersfield before collapsing and taking his last breath.</description>
+    </item>
+    
+  </channel>
+</rss>

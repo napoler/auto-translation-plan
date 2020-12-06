@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mastiff on Docs</title>
+    <link>./tags/mastiff/</link>
+    <description>Recent content in Mastiff on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/mastiff/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> It was once the &#34;mythical beast&#34; of China, and sold for millions and millions of dollars! Now it&#39;s a &#34;wild dog&#34; and no one wants it. </title>
+      <link>./post/2020-12-01/65800b68e1843f8df944b6597d1f3aab/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/65800b68e1843f8df944b6597d1f3aab/</guid>
+      <description>For the &amp;ldquo;smart&amp;rdquo; people of the country will not give up any opportunity to &amp;ldquo;build wealth&amp;rdquo;, and over the years the residents of China have proven that as long as this thing has the potential to &amp;ldquo;speculate&amp;rdquo; it It&amp;rsquo;s a good way to make money, but of course, those who come in later may become the &amp;ldquo;catcher&amp;rdquo;.
+I don&amp;rsquo;t know if you still remember what was once considered a &amp;ldquo;mythical beast&amp;rdquo; by some residents of China.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Values on Docs</title>
+    <link>./tags/values/</link>
+    <description>Recent content in Values on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/values/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Alibaba&#39;s employee doubling appraisal categorized as a &#34;wild dog hound.&#34; </title>
+      <link>./post/2020-12-01/145228cb230ad3d3ab74c940d1e5b3f2/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/145228cb230ad3d3ab74c940d1e5b3f2/</guid>
+      <description>Reporter Wei Heping
+The rapid expansion of employees often leads to a dilution of corporate culture, a problem that Alibaba Group, amid rumors of an IPO, has had to face.
+&amp;ldquo;Alibaba employees have grown from 4,000 last year to 6,000 today, and according to the company&amp;rsquo;s human resources plan, it will reach 8,000 by the end of the year.&amp;rdquo; Deng Kangming, senior vice president of Alibaba Group, revealed in an interview with reporters a few days ago that after the rapid growth of the number of employees in the past few years, the number of employees in the group will double this year compared to last year.</description>
+    </item>
+    
+  </channel>
+</rss>

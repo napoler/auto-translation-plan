@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural on Docs</title>
+    <link>./tags/natural/</link>
+    <description>Recent content in Natural on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/natural/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Try to avoid these 8 breeds of dog because it will cost the owner more money! </title>
+      <link>./post/2020-12-01/a714657ae5fa3c82c7b7218b7c6b26a4/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a714657ae5fa3c82c7b7218b7c6b26a4/</guid>
+      <description>Dogs are often called &amp;ldquo;man&amp;rsquo;s best friend&amp;rdquo;, we live with them, they give us unconditional love, and we provide them with a comfortable living environment and diet.
+It is normal to provide the necessary expenses for a dog&amp;rsquo;s normal survival. However, there are some breeds of dogs that, because of their characteristics, can cost a dog parent more money.
+The aggressive Rottweiler.
+The list of dog breeds that are not recommended to be fed is made by a veterinarian who has returned to the United States after 20 years of practice.</description>
+    </item>
+    
+  </channel>
+</rss>

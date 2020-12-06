@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reportedly on Docs</title>
+    <link>./tags/reportedly/</link>
+    <description>Recent content in Reportedly on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/reportedly/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A state builds an &#34;animal overpass&#34; to protect wildlife on the highway (Figure) </title>
+      <link>./post/2020-12-01/cf4421d707b2eed410e849d30c551de9/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/cf4421d707b2eed410e849d30c551de9/</guid>
+      <description>2020-11-28 13:15:06 Source: Overseas.com
+Report
+Utah State Government&amp;rsquo;s &amp;ldquo;Animal Crossover&amp;rdquo; (Social Media)
+Overseas.com, November 28, 2011. According to CNN (CNN) local time on the 27th, the Utah state government has built a wildlife &amp;ldquo;overpass&amp;rdquo; in order to protect local wildlife and reduce the risk of wildlife encountering traffic accidents on the highway. The bridge has reportedly seen initial results in a short period of time.
+Wildlife crossing an overpass (video clip)</description>
+    </item>
+    
+  </channel>
+</rss>

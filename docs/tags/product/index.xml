@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Product on Docs</title>
+    <link>./tags/product/</link>
+    <description>Recent content in Product on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The China Pet Consumption Trend Report 2019: Which &#34;shovelers&#34; are busy &#34;jerking off&#34;? </title>
+      <link>./post/2020-12-01/7b2ccf57e175f206095ae1e70a562bc3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/7b2ccf57e175f206095ae1e70a562bc3/</guid>
+      <description>On November 19, Fan Tianyang, General Manager of Pet Procurement Department of Jingdong Retail Consumer Products Division, released the 2019 China Pet Consumption Trend Report (the &amp;ldquo;Report&amp;rdquo;) at the China International Pet &amp;amp; Aquarium Show (CIPS) Gala Dinner. According to the Report, China&amp;rsquo;s pet market has continued to expand in recent years, and the pet industry will continue to maintain a growth rate of over 14% in the next 3-5 years.</description>
+    </item>
+    
+  </channel>
+</rss>

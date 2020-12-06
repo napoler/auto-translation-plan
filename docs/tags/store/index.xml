@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Store on Docs</title>
+    <link>./tags/store/</link>
+    <description>Recent content in Store on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/store/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Haver Dawg prices plummet and miss out on next year! </title>
+      <link>./post/2020-12-01/5a580ed19e4b0709d9a5048272719618/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/5a580ed19e4b0709d9a5048272719618/</guid>
+      <description>Promotion Time: 2020/11/27-2020/11/30
+Recently, the Great Wall Motor Haval store of Beijing Jishun Zhongda International Trade Co., Ltd. gave a cash discount of up to 20,000 yuan for its Haval big dog models. This activity is a limited-time special promotion, limited time and limited places, first-come, first-served! 4S store brand-new commercial vehicles National United Guarantee store car store tickets! Any manufacturer-authorized regular 4S store in the country free of charge and after maintenance, the day of purchase, the company can issue all the vehicle procedures (invoice, certificate of conformity, consistency certificate, vehicle information table, three-bag card) national licensing, warm tips: We take into account foreign customers to Beijing to buy a car far away, (successful purchase) can reimburse the one-way trip to Beijing [train tickets, high-speed rail tickets, air tickets (limited to owners).</description>
+    </item>
+    
+  </channel>
+</rss>

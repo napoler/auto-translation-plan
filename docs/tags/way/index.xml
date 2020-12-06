@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Way on Docs</title>
+    <link>./tags/way/</link>
+    <description>Recent content in Way on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/way/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> If you even hold the cat in the wrong position, it&#39;s no wonder the cat likes you! </title>
+      <link>./post/2020-12-01/e54dcc50554b6b7aabe217a333404c21/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e54dcc50554b6b7aabe217a333404c21/</guid>
+      <description>Some owners complain that their cats are not allowed to be kissed or hugged, as if they have a white wolf. Have you ever thought that if you even hold your cat in the wrong position, the cat will feel uncomfortable and like you? Today we&amp;rsquo;re going to take a look at the common ways to hold a cat wrong!
+Common Errors in Cat Holding
+ Carry-On  Some cats are heavier than others, and it is still a bit hard to hold them with one hand, so some owners will choose to carry them on their shoulders, which is very effortless.</description>
+    </item>
+    
+  </channel>
+</rss>

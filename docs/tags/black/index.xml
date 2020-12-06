@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Black on Docs</title>
+    <link>./tags/black/</link>
+    <description>Recent content in Black on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/black/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> What are the fastest animals in the world? Top 10 Fastest Animals, See Who&#39;s Faster </title>
+      <link>./post/2020-12-01/9b513b861282a70bfeff8714dd2a066c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9b513b861282a70bfeff8714dd2a066c/</guid>
+      <description>There are many animals in the world that run. The lion, for example, is the most dominant animal of the African savannah and is known as the &amp;ldquo;King of the Beasts&amp;rdquo;. But what most people don&amp;rsquo;t know is that lions are also very fast. Most of the time, fast running animals will dare to hunt prey that runs at the same or even much faster than them. Do you know what the fastest animals are?</description>
+    </item>
+    
+  </channel>
+</rss>

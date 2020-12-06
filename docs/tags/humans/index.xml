@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Humans on Docs</title>
+    <link>./tags/humans/</link>
+    <description>Recent content in Humans on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/humans/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> When the Soviet Union secretly built the Warrior of the Apes, five female volunteers participated, what happened to them? </title>
+      <link>./post/2020-12-01/7d06ffdb744e0a16010a426fca68405c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/7d06ffdb744e0a16010a426fca68405c/</guid>
+      <description>2020-11-28 08:16:51 Source: mango pudding dairy
+Report
+I&amp;rsquo;m sure many of you have seen Planet of the Apes, Rise of the Planet of the Apes and other Hollywood blockbusters, in which the gorilla warriors also left a deep impression on everyone. In terms of individual power, humans are far less powerful than these animals. If we could use the power of the orangutan for human beings, we could create a group of &amp;ldquo;super soldiers&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

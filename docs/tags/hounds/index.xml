@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hounds on Docs</title>
+    <link>./tags/hounds/</link>
+    <description>Recent content in Hounds on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/hounds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Sporting Dog [UNK] is a true sportsman! </title>
+      <link>./post/2020-12-01/aa5a92ae8f1baac2b3fc7923dd395169/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/aa5a92ae8f1baac2b3fc7923dd395169/</guid>
+      <description>Breed Determines Character
+Every type of dog has something in common, so &amp;ldquo;breed determines personality&amp;rdquo;. Most dog registries classify dogs according to their behavioral characteristics, instincts and family history. Currently, it is common worldwide to group dogs into seven distinctive categories: sporting dogs, hunting dogs with a keen sense of smell or sight, sheepdogs, working dogs, and dogs with a strong sense of smell or sight. Dogs, Toy Dogs and Family Dogs.</description>
+    </item>
+    
+  </channel>
+</rss>

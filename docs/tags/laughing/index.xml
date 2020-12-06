@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laughing on Docs</title>
+    <link>./tags/laughing/</link>
+    <description>Recent content in Laughing on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/laughing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Alternative dog &#34;laughs&#34; at corgi short legs, imitates its walking posture, laughing the netizens! </title>
+      <link>./post/2020-12-01/f98d90fdfacd37e554e0b5569531174b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/f98d90fdfacd37e554e0b5569531174b/</guid>
+      <description>Dog mimicry, sometimes super funny. This time the main character is a corgi, which is famous among many dogs for its &amp;ldquo;short legs&amp;rdquo; and is always being compared to other dogs in terms of height. One corgi was recently laughed at by his friends when an alternative dog lowered his body to mimic the way he walked, which made netizens laugh.
+The two are good friends, but the mischievous Dustin always makes fun of Tayto, who has short limbs, and from time to time he will lower himself down to imitate Tayto&amp;rsquo;s walking.</description>
+    </item>
+    
+  </channel>
+</rss>

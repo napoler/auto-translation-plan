@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Zhang on Docs</title>
+    <link>./tags/_zhang/</link>
+    <description>Recent content in _Zhang on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/_zhang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The actual story, I spent $380,000 to get my dog cloned. </title>
+      <link>./post/2020-12-01/bdec11a1b5b6e3f408cca5bd91502498/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/bdec11a1b5b6e3f408cca5bd91502498/</guid>
+      <description>When she was a teenager, an 85-year-old Shanghai girl adopted a neighbor&amp;rsquo;s abandoned dog named Ni Ni and kept it for 17 years until last fall, when she was 19 years old. When old Nene died of organ failure, she decided to have a clone, and the new Nene was born.
+I don&amp;rsquo;t know if you&amp;rsquo;ve seen the 1982 movie Blade Runner.
+The amazing thing is that we are now in the month of November 2019, which is when the first part of this movie takes place.</description>
+    </item>
+    
+  </channel>
+</rss>

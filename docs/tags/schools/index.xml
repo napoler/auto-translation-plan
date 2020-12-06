@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Schools on Docs</title>
+    <link>./tags/schools/</link>
+    <description>Recent content in Schools on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/schools/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> City Forestry Bureau Jointly Launches Wildlife Protection Publicity Campaign (Figure) </title>
+      <link>./post/2020-12-01/21e9f3c66f695bcb797853305e76d1af/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/21e9f3c66f695bcb797853305e76d1af/</guid>
+      <description>Dajiang.com/Fuzhou Headlines Client News Correspondent Xiaofen Huang and Min Li Report: In order to further enhance the awareness of wildlife protection, on November 26th, the Fuzhou Forestry Bureau joined the Linchuan District Forestry Bureau, the City Public Security Bureau Forest Public Security Branch and the City Wildlife Protection Association to launch a wildlife protection campaign with the theme of &amp;ldquo;Protecting wildlife according to the law and building a green ecological home&amp;rdquo;.</description>
+    </item>
+    
+  </channel>
+</rss>

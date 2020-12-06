@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>According on Docs</title>
+    <link>./tags/according/</link>
+    <description>Recent content in According on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/according/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A Hong Kong Poodle tested positive for a new crown with no associated symptoms. </title>
+      <link>./post/2020-12-01/8f1516613ac736cc5e2d7cfd62ba1297/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/8f1516613ac736cc5e2d7cfd62ba1297/</guid>
+      <description>According to the news just released by Hong Kong Eastweb, the Agriculture, Fisheries and Conservation Department of the Hong Kong SAR Government said on 25 October that it received a poodle whose sample tested positive for the new coronavirus.
+According to the department, the poodle is from Tsuen Wan and its owner is a close contact with a confirmed case of neocrowning, so the poodle was sent to the Agriculture, Fisheries and Conservation Department for quarantine last Friday (20), and the sample taken showed positive results for neocrowning.</description>
+    </item>
+    
+  </channel>
+</rss>

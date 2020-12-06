@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Criminal on Docs</title>
+    <link>./tags/criminal/</link>
+    <description>Recent content in Criminal on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/criminal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Gulou&#39;s First Case of Criminal Attached Civil Lawsuit for Wildlife Protection Opens in Court </title>
+      <link>./post/2020-12-01/d016cf3a513b356fc22aecbfdb832ad5/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/d016cf3a513b356fc22aecbfdb832ad5/</guid>
+      <description>Fuzhou News Network, November 27th (Fuzhou Daily Reporter) (Lai, Zhichang) Recently, Gulou District, the first case of criminal wildlife protection incidental civil public interest litigation case in court. The Gulou District Procuratorate to illegal acquisition, sale of precious and endangered wildlife crime on the case of the defendant Lin Mou public prosecution.
+It is understood that, in May this year, Lin Mou through the network channels to buy a &amp;ldquo;sapphire&amp;rdquo; spider, and in a website to publish information for sale.</description>
+    </item>
+    
+  </channel>
+</rss>

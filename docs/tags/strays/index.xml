@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Strays on Docs</title>
+    <link>./tags/strays/</link>
+    <description>Recent content in Strays on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/strays/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A monk saved more than 5,500 stray dogs and cats in 27 years: I was so busy that I didn&#39;t have time to pray. </title>
+      <link>./post/2020-12-01/417f143fbeb16c9955fd1fb6630588d3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/417f143fbeb16c9955fd1fb6630588d3/</guid>
+      <description>Originally I am the extraordinary gentleman.
+About 50 kilometers from downtown Shanghai, Fengxian hides an old and dilapidated temple called the Annunciation Temple.
+Unlike temples in the downtown area, there is no golden-hued palace, no solemn monks in robes, and no chanting of Buddhist scriptures.
+But there is a monk in a red auto mechanic&amp;rsquo;s uniform who has rescued more than 5,500 stray dogs and cats.
+This man is the abbot of the hospital, Zhixiang.</description>
+    </item>
+    
+  </channel>
+</rss>

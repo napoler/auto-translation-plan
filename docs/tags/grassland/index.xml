@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grassland on Docs</title>
+    <link>./tags/grassland/</link>
+    <description>Recent content in Grassland on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/grassland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The Little Sisters of the Heroes of the Grasslands, a children&#39;s ballet that reaffirms collectivism from a new perspective </title>
+      <link>./post/2020-12-01/395abf1bcca6f757b72294c88a56dfbe/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/395abf1bcca6f757b72294c88a56dfbe/</guid>
+      <description>The heroic deeds of the Little Sisters of the Grassland Heroes have influenced generations, are the pride of Baotou, and are our role models. We need to dig deep into the spirit of the &amp;ldquo;Little Sisters of the Grassland Heroes&amp;rdquo; spirit of the times, the &amp;ldquo;Little Sisters of the Grassland Heroes&amp;rdquo; story told from generation to generation, education and guidance of today&amp;rsquo;s youth as a good inheritor of the red gene, practitioner.</description>
+    </item>
+    
+  </channel>
+</rss>

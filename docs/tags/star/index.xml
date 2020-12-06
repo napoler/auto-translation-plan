@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Star on Docs</title>
+    <link>./tags/star/</link>
+    <description>Recent content in Star on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/star/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The Evolution of the Adorable Meowth </title>
+      <link>./post/2020-12-01/cef2160acbe3bcf6af1f766e68cece57/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/cef2160acbe3bcf6af1f766e68cece57/</guid>
+      <description>&amp;ldquo;The Meowth&amp;rdquo; is a warm-hearted online show that portrays the evolution of cute pets. __
+The Evolution of Meowth Duration: 02:26 Source: Movie Network
+Total 7 __
+1905film.com The family film &amp;ldquo;The Meow Star&amp;rdquo; directed by Chen Mucheng and starring Gutenberg, Mary Ma, Liu Chutian, Huang Xingvis, etc. will be released on July 7, 2017 during the summer season nationwide. The movie tells the story of the &amp;ldquo;Meow Star Guest&amp;rdquo; Rhinoceros, who comes to Earth in a spaceship and unwittingly becomes the new member of the Kutian Le and Mary&amp;rsquo;s family and the series of hilarious stories that follow.</description>
+    </item>
+    
+  </channel>
+</rss>

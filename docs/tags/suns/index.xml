@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suns on Docs</title>
+    <link>./tags/suns/</link>
+    <description>Recent content in Suns on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/suns/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Dogs and cats playing around accidentally catch fire! The next scene is a stunner! </title>
+      <link>./post/2020-12-01/407cd1a0fff74ddbdd495bb84226ad5d/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/407cd1a0fff74ddbdd495bb84226ad5d/</guid>
+      <description>Dogs and cats playing around and getting burned! The next scene is a stunner! 2020-11-26 17:00 Source: Breaking News - Breaking News - Politics
+Recently, a surveillance video caused a lot of discussion among netizens.
+In the video, dogs and cats are playing in the living room.
+The cat&amp;rsquo;s tail accidentally caught on an open flame on the table.
+The dog runs away immediately at the sight of it.</description>
+    </item>
+    
+  </channel>
+</rss>

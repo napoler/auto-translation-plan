@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pictures on Docs</title>
+    <link>./tags/pictures/</link>
+    <description>Recent content in Pictures on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/pictures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The cute and sweet Teddy is a hound, but it&#39;s a good thing I didn&#39;t mess with him, or else I&#39;d be in trouble! </title>
+      <link>./post/2020-12-01/34bee1af25e5784cfd4b1a05bb6f7ca7/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/34bee1af25e5784cfd4b1a05bb6f7ca7/</guid>
+      <description>2020-11-25 20:51:07 Source: Abdominal Tearer&amp;rsquo;s Week
+Report
+Would you believe it if someone told you that your Teddy is actually a hunting dog? I know most people think it&amp;rsquo;s impossible, but how can a small, litter-ridden dog be a ferocious hound? Let me tell you then, based on the history of the Teddy&amp;rsquo;s origins and the tracing of its lineage, it really is a terrier.
+For the record, the Teddy is not a breed of dog, it&amp;rsquo;s just one of the dogs of the Poodle, just like one of the lipstick shades.</description>
+    </item>
+    
+  </channel>
+</rss>

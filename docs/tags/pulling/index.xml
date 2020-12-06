@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pulling on Docs</title>
+    <link>./tags/pulling/</link>
+    <description>Recent content in Pulling on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/pulling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Old man trains stray dog to pull himself, netizens: really bad  </title>
+      <link>./post/2020-12-01/957d04cc050474e6b084707839ad2f0c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/957d04cc050474e6b084707839ad2f0c/</guid>
+      <description>2020-11-27 13:01:50 Source: Don&amp;rsquo;t let your heart fail you
+Report
+In the streets of Xi&amp;rsquo;an, Shaanxi Province, one often sees a small dog running along the road pulling an elderly man along.
+However, unlike the stories we&amp;rsquo;ve seen before, the dog&amp;rsquo;s owner is not a disabled person, but an able-bodied person.
+The dog is also the result of months of deliberate &amp;ldquo;training&amp;rdquo; by the old man.
+The old man said, the dog is a stray dog, initially picked it up when it was very thin.</description>
+    </item>
+    
+  </channel>
+</rss>

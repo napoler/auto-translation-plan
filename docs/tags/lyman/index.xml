@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lyman on Docs</title>
+    <link>./tags/lyman/</link>
+    <description>Recent content in Lyman on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/lyman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Hyenas are &#34;evil and scary&#34;? Hyenas haven&#39;t bitten anyone in 200 years in small Esse town </title>
+      <link>./post/2020-12-01/7acc2891cfe125d18f9020aa44b6c682/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/7acc2891cfe125d18f9020aa44b6c682/</guid>
+      <description>The city has a long history of peaceful coexistence with hyenas. Centuries ago, these animals attacked people, sometimes even biting the townspeople to death. Then people made holes in the walls and threw food scraps in the holes, so the hyenas started to eat the rest of the food and stopped attacking people. According to the Harar people, there has not been another hyena attack on humans for 200 years.</description>
+    </item>
+    
+  </channel>
+</rss>

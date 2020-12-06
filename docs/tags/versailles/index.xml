@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Versailles on Docs</title>
+    <link>./tags/versailles/</link>
+    <description>Recent content in Versailles on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/versailles/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> What Versailles literature? Isn&#39;t it just the daily life of a meow! </title>
+      <link>./post/2020-12-01/867f263eb45348969e0e5178359c9428/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/867f263eb45348969e0e5178359c9428/</guid>
+      <description>I&amp;rsquo;m not sure what to make of the Versailles literature, but I&amp;rsquo;m not sure what to make of it if it&amp;rsquo;s available to meowers.
+For those of you who don&amp;rsquo;t know what Versailles literature is, please take a look at the following science diagram, which can be skipped if you are a Versailles student: &amp;hellip;&amp;hellip;
+I can&amp;rsquo;t say that cat nests are an IQ tax, but cardboard boxes do get more meowing than anything else.</description>
+    </item>
+    
+  </channel>
+</rss>

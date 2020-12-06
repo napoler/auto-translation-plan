@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Effectively on Docs</title>
+    <link>./tags/effectively/</link>
+    <description>Recent content in Effectively on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/effectively/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cibo: A dog food that shovelers can&#39;t miss! </title>
+      <link>./post/2020-12-01/a58c8cd3ebcd7e194a88027ff74ab5c2/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a58c8cd3ebcd7e194a88027ff74ab5c2/</guid>
+      <description>As one of the most popular dog food brands, Xibao&amp;rsquo;s strategic layout and development path has attracted a lot of attention since it has been ranked among the top selling dog food brands. In the Internet era, social media, such as live broadcast, short video, public, etc., has become a new development field for the brand. With the innovation and exploration of online channel operation, Cibo breaks the inherent mode of dog food sales, making consumers not only customers, but also friends, and becoming a group of warm-hearted family who love pets and life.</description>
+    </item>
+    
+  </channel>
+</rss>

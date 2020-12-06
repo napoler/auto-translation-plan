@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scorpion on Docs</title>
+    <link>./tags/scorpion/</link>
+    <description>Recent content in Scorpion on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/scorpion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cat mummies, with live kittens? [UNK] Why a cat sacrifice? </title>
+      <link>./post/2020-12-01/b5ecb786a8f99a61bd37b51525f5c00b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/b5ecb786a8f99a61bd37b51525f5c00b/</guid>
+      <description>This blogger looks like a cat lover. However, cat mummies do have kittens, and many of them are kittens. Many of the cat mummies unearthed in Saqqara today are CT scanned to reveal the remains of a whole cat inside. (Ugh, that&amp;rsquo;s a sad answer) Not all cat mummies contain a cat. Sometimes there are only a few bones, and sometimes there is no cat at all, but cloth, resin, and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

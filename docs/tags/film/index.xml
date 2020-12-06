@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Film on Docs</title>
+    <link>./tags/film/</link>
+    <description>Recent content in Film on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/film/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Lighter moments of the day: what I eat at the beginning of the month, what the dog eats, and what the dog eats a week later. </title>
+      <link>./post/2020-12-01/76e297ad9d843e6f345eb448a9a433c5/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/76e297ad9d843e6f345eb448a9a433c5/</guid>
+      <description>Lighter moments of the day: what I eat at the beginning of the month payday, what the dog eats, and what the dog eats a week later.
+The beginning of the month payroll I eat what the dog eats, a week later the dog eats what I eat.
+The end of the month to live can not go on, fast pay! You are my little apple, I can&amp;rsquo;t get enough of you!</description>
+    </item>
+    
+  </channel>
+</rss>

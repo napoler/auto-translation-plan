@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internet on Docs</title>
+    <link>./tags/internet/</link>
+    <description>Recent content in Internet on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> I recently had the pleasure of hosting two surrogate Beagles and tell you what I know about Beagles! </title>
+      <link>./post/2020-12-01/6214910b900eb421171daf61f7dc34af/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/6214910b900eb421171daf61f7dc34af/</guid>
+      <description>As people&amp;rsquo;s standard of living is getting better and better, the number of families with pet dogs is increasing, and lately I&amp;rsquo;ve been seeing postings/questions from people asking about Beagles. It just so happens that recently I have received two surrogate training Beagles here, and I&amp;rsquo;ll state in advance that I have no previous experience with breeding or training Beagles, and this is my first experience with them, so today I&amp;rsquo;m going to talk about what I know about Beagles!</description>
+    </item>
+    
+  </channel>
+</rss>

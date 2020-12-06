@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autumn on Docs</title>
+    <link>./tags/autumn/</link>
+    <description>Recent content in Autumn on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/autumn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Xi Mengyao and Lawrence Ho set up a stall to sell the first cup of milk tea after the first snow, the Tang Monk: the first dog food after the first snow has been eaten! </title>
+      <link>./post/2020-12-01/0c0f5dcd24eda293efac92760acd583e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/0c0f5dcd24eda293efac92760acd583e/</guid>
+      <description>Recently the Internet is very popular &amp;ldquo;autumn&amp;rsquo;s first cup of milk tea&amp;rdquo;, there is a saying: &amp;ldquo;It does not matter whether you drink the first cup of milk tea in autumn, but you must be deeply aware that if you do not work hard to make money, then you will be able to drink the first mouthful of northwest wind in winter!&amp;rdquo;. Then followed a lot of fads, like &amp;ldquo;autumn&amp;rsquo;s first bag&amp;rdquo;, &amp;ldquo;autumn&amp;rsquo;s first grapefruit&amp;rdquo;, &amp;ldquo;autumn&amp;rsquo;s first dog food&amp;rdquo; and so on.</description>
+    </item>
+    
+  </channel>
+</rss>

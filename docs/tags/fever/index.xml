@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fever on Docs</title>
+    <link>./tags/fever/</link>
+    <description>Recent content in Fever on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/fever/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Qingdao 78-year-old man with recurrent fever for 8 days also had a heart attack, actually related to pet dogs </title>
+      <link>./post/2020-12-01/8c4bf904afc90f135019728a1e0ff968/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/8c4bf904afc90f135019728a1e0ff968/</guid>
+      <description>Qingdao 78-year-old man with recurrent fever for 8 days had a heart attack, but it was related to his pet dog! 2020-11-28 10:10 Source: Breaking News - Breaking News - Media
+The Peninsula All Media Reporter Qi Juan Correspondent Feng Ping
+Recently, a 78-year-old man named Gao Da (a pseudonym) in Qingdao had a recurring fever for eight days and worried everyone in his family. He has muscle and joint pain, abdominal discomfort, loss of appetite, and medication that can only temporarily control his temperature, but who is the culprit?</description>
+    </item>
+    
+  </channel>
+</rss>

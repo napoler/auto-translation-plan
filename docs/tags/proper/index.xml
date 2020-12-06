@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Proper on Docs</title>
+    <link>./tags/proper/</link>
+    <description>Recent content in Proper on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/proper/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Dog owners must understand these six points </title>
+      <link>./post/2020-12-01/c82b03310e54e5091f2648e0ea696348/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/c82b03310e54e5091f2648e0ea696348/</guid>
+      <description>It&amp;rsquo;s important to be prepared before getting a dog!
+**1, do not think that raising a dog is an easy thing **, although the dog can bring you a lot of happy time, but if you will not raise a dog, it will certainly bring you a lot of trouble.
+2, before raising a dog, first consider their current living situation, whether the dog can provide a stable living environment, whether you have the economic strength to raise a dog, many college students on a whim, in the dormitory dog, in fact, this is very wrong, as long as you graduate, there is a certain economic strength, and a stable place to live and then proceed to consider raising a little guy!</description>
+    </item>
+    
+  </channel>
+</rss>

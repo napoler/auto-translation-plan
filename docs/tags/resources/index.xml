@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on Docs</title>
+    <link>./tags/resources/</link>
+    <description>Recent content in Resources on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/resources/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> These Lab Beagles Just Got Promoted to the National Team </title>
+      <link>./post/2020-12-01/0dcfad7a4936f10b410669aedc8c36d0/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/0dcfad7a4936f10b410669aedc8c36d0/</guid>
+      <description>Wen/Tu JinYang reporter Chen Zeyun
+After special breeding and training, some of them are sent to customs to become quarantine dogs, while others are sent to universities or research institutions to become teaching dogs or dogs for scientific research. &amp;hellip;&amp;hellip;
+On June 13, the reporter learned from GPG that the &amp;ldquo;National Canine Laboratory Animal Resource Bank&amp;rdquo; of its Guangzhou General Institute of Pharmaceutical Sciences was included in the list of national science and technology resource sharing service platforms, which is also the first national science and technology resource sharing service platform in the Greater Bay Area of Guangdong, Hong Kong and Macao.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Music on Docs</title>
+    <link>./tags/music/</link>
+    <description>Recent content in Music on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/music/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Meowth&#39;s Exclusive Music Debuts Worldwide in October </title>
+      <link>./post/2020-12-01/0703a478206f9637037497c1a8fa75f1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/0703a478206f9637037497c1a8fa75f1/</guid>
+      <description>Shovelers will soon have a new way to pamper their meowers. The world&amp;rsquo;s first album of music written specifically for cats will be released by the famous Universal Records to help them calm their nerves and relieve their worries. The album consists of five tracks that combine soundscapes and classical music. Promoter David Tye believes that music is not only for the exclusive use of humans, but can be enjoyed by all mammals.</description>
+    </item>
+    
+  </channel>
+</rss>

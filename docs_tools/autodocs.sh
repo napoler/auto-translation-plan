@@ -6,6 +6,8 @@
 
 #进行编译
 hugo
+# hugo server #运行本地
+#hugo server --bind=0.0.0.0 --baseURL=192.168.192.173 -w
 #建立软链接
 #ln -s ./public/ ../docs
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Working on Docs</title>
+    <link>./tags/working/</link>
+    <description>Recent content in Working on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/working/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Shovelers, do you know how to read your dog breed in English? </title>
+      <link>./post/2020-12-01/447f1f0b215e06c23e6f5a363bc50231/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/447f1f0b215e06c23e6f5a363bc50231/</guid>
+      <description>Last weekend, I was standing on a small terrace in Wudaoying with a glass of hot red wine and a few friends, enjoying a leisurely life that I couldn&amp;rsquo;t dream of on a weekday. Suddenly one guy got up after looking at his watch with a serious expression, and just as we were trying to figure out which words were not in place, he said, &amp;ldquo;Sorry, the dog hasn&amp;rsquo;t left yet, I&amp;rsquo;ll go first.</description>
+    </item>
+    
+  </channel>
+</rss>

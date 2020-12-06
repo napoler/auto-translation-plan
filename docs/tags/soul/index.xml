@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soul on Docs</title>
+    <link>./tags/soul/</link>
+    <description>Recent content in Soul on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/soul/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Douluo Continent: Tang San Protects Little Dance, Eight Spider Spear Broken Again, Body Wounds Shockingly Sharp </title>
+      <link>./post/2020-12-01/e5ac5b38a2406955c4d0496ba9a9c7b7/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e5ac5b38a2406955c4d0496ba9a9c7b7/</guid>
+      <description>Tang San and Xiaodiao have been apart for five years, and during these five years Tang San has missed Xiaodiao every moment. It could be said that being able to protect Little Dance was Tang San&amp;rsquo;s greatest motivation. He followed Tang Hao&amp;rsquo;s training, braved the Killing Capital, and did everything to become stronger. Becoming stronger myself wasn&amp;rsquo;t so much a desire for power, it was just a desire to have the ability to protect you!</description>
+    </item>
+    
+  </channel>
+</rss>

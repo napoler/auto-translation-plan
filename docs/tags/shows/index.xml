@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shows on Docs</title>
+    <link>./tags/shows/</link>
+    <description>Recent content in Shows on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/shows/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A husky learning martial arts, a great show of walking on the eaves, the dog on the side of the side of the dog were all dumbfounded! </title>
+      <link>./post/2020-12-01/e02fb4c7bc5b063c91aa9928a268a63c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e02fb4c7bc5b063c91aa9928a268a63c/</guid>
+      <description> A husky learns martial arts, shows off his ability to walk on walls, and the dog on the other side is dumbfounded. </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Attacked on Docs</title>
+    <link>./tags/attacked/</link>
+    <description>Recent content in Attacked on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/attacked/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Hyenas attack a man in his home in Zimbabwe, leaving only the remains of his body in a brutal scene. </title>
+      <link>./post/2020-12-01/686f2764a5793eacb508566cb4528e7c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/686f2764a5793eacb508566cb4528e7c/</guid>
+      <description>2020-11-23 17:03:02 Source: Financial Media Ticktock
+Report
+According to media reports on November 22nd, a tragic case occurred in Zimbabwe recently, a man was sleeping at home late at night, but was attacked by a pack of hyenas (liè) dogs, they tore the man into several pieces, the house was full of blood, can be described as gruesome, when people found, only the remains were left.
+The victim, who was 46 years old, was out drinking with friends on the day of the attack.</description>
+    </item>
+    
+  </channel>
+</rss>

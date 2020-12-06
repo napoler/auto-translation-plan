@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>White on Docs</title>
+    <link>./tags/white/</link>
+    <description>Recent content in White on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/white/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Don&#39;t let your dog get into the act when you&#39;re watching swans! </title>
+      <link>./post/2020-12-01/ab04f8d0e12c2c466549f38c0d4e2da1/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ab04f8d0e12c2c466549f38c0d4e2da1/</guid>
+      <description>On November 21, visitors bring their dogs to watch white swans in the White Swan Viewing Area of the Sanmenxia Yellow River Wetland. Currently, white swans in the Sanmenxia Yellow River Wetland are in peak season, which attracts a large number of tourists. Occasionally, we see some tourists bring their dogs to watch the white swans up close, which can scare the swans if they are not careful. We hope that visitors will be civilized and work together to create a quiet and good wintering environment for the white swans.</description>
+    </item>
+    
+  </channel>
+</rss>

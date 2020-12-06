@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public on Docs</title>
+    <link>./tags/public/</link>
+    <description>Recent content in Public on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/public/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> City Forestry Bureau Jointly Launches Wildlife Protection Publicity Campaign (Figure) </title>
+      <link>./post/2020-12-01/21e9f3c66f695bcb797853305e76d1af/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/21e9f3c66f695bcb797853305e76d1af/</guid>
+      <description>Dajiang.com/Fuzhou Headlines Client News Correspondent Xiaofen Huang and Min Li Report: In order to further enhance the awareness of wildlife protection, on November 26th, the Fuzhou Forestry Bureau joined the Linchuan District Forestry Bureau, the City Public Security Bureau Forest Public Security Branch and the City Wildlife Protection Association to launch a wildlife protection campaign with the theme of &amp;ldquo;Protecting wildlife according to the law and building a green ecological home&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title> Gulou&#39;s First Case of Criminal Attached Civil Lawsuit for Wildlife Protection Opens in Court </title>
+      <link>./post/2020-12-01/d016cf3a513b356fc22aecbfdb832ad5/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/d016cf3a513b356fc22aecbfdb832ad5/</guid>
+      <description>Fuzhou News Network, November 27th (Fuzhou Daily Reporter) (Lai, Zhichang) Recently, Gulou District, the first case of criminal wildlife protection incidental civil public interest litigation case in court. The Gulou District Procuratorate to illegal acquisition, sale of precious and endangered wildlife crime on the case of the defendant Lin Mou public prosecution.
+It is understood that, in May this year, Lin Mou through the network channels to buy a &amp;ldquo;sapphire&amp;rdquo; spider, and in a website to publish information for sale.</description>
+    </item>
+    
+  </channel>
+</rss>

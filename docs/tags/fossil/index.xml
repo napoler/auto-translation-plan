@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fossil on Docs</title>
+    <link>./tags/fossil/</link>
+    <description>Recent content in Fossil on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/fossil/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Spotted Hyena was once all over China (group photo) </title>
+      <link>./post/2020-12-01/fe735c25dcefb5bb9179b28deb7459c0/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/fe735c25dcefb5bb9179b28deb7459c0/</guid>
+      <description>The spotted hyena became extinct 11,000 years ago in China and across Asia and Europe.
+Currently, many Africans are feeding spotted hyenas as pets.
+African spotted hyena fighting with wolf packs
+The fossilized head of a spotted hyena has been found in Qinhuangdao, which is expected to solve the mystery of the extinction of the megafauna 11,000 years ago&amp;hellip;.
+Recently, the excavation of 21 nearly intact fossilized spotted hyena skulls, which had been extinct in Asia and Europe, at Lingxian Cave near Banchangyu Village in northern Fanning County, Qinhuangdao City, has attracted widespread attention from archaeologists and the media.</description>
+    </item>
+    
+  </channel>
+</rss>

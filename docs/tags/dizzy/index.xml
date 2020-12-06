@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dizzy on Docs</title>
+    <link>./tags/dizzy/</link>
+    <description>Recent content in Dizzy on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/dizzy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> What does it mean to be a meow? What is the best way to keep a meow? </title>
+      <link>./post/2020-12-01/a70df66667aae83914a0e0e96fe68fdb/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a70df66667aae83914a0e0e96fe68fdb/</guid>
+      <description>What does it mean to be a meow? What is the best way to keep a meow?
+Time：2015-03-24 21:10 Source：hongwang.com Editor：Mao Qingqing
+Chuanbei Online Core Tip: What does it mean to be a meow? What is the best way to keep a meow? &amp;mdash;
+Meowers, an Internet buzzword, dubs cats as aliens who come to Earth from the distant planet Meow from outer space and use their cute appearance to trick humans into trusting them.</description>
+    </item>
+    
+  </channel>
+</rss>

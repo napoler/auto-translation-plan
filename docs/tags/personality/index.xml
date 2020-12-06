@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personality on Docs</title>
+    <link>./tags/personality/</link>
+    <description>Recent content in Personality on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/personality/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Dogs know people from dogs, and shovelers&#39; personalities from dog ownership! </title>
+      <link>./post/2020-12-01/b8c157714e22f3a8a29da13cbd6ceb17/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/b8c157714e22f3a8a29da13cbd6ceb17/</guid>
+      <description>There is a saying that &amp;ldquo;a dog knows a man by his dog&amp;rdquo;, and from the dog&amp;rsquo;s behavior, you can probably know the character of the spade. We all know that the dog&amp;rsquo;s behavior is directly related to the shovel, if the shovel is kinder, then the dog will not be fierce. If the shovel is more fierce, then the dog will not be kind. So let&amp;rsquo;s take a look at the character of the shovelers who have several kinds of dogs.</description>
+    </item>
+    
+    <item>
+      <title> United Engine｜What is a big dog with two legs and a wild dog with four legs? </title>
+      <link>./post/2020-12-01/4bc50cb8fc06a6c5692dba1898121e07/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/4bc50cb8fc06a6c5692dba1898121e07/</guid>
+      <description>Perhaps the 2020 epidemic has exacerbated the winter in the auto market, further amplifying the pressure on car companies. Even the domestic SUV leaders are beginning to show signs of weakness. Although Haval SUVs are still able to maintain a certain lead in the market, they have begun to lack momentum. In particular, the Haval H6, from March to August &amp;ldquo;stable&amp;rdquo; play, sustained performance of more than 20,000 units, did not achieve a greater increase in sales, but also to the successor CS75 PLUS sees the hope of overtaking in the future.</description>
+    </item>
+    
+  </channel>
+</rss>

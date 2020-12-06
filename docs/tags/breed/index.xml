@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Breed on Docs</title>
+    <link>./tags/breed/</link>
+    <description>Recent content in Breed on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/breed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> If you&#39;re looking for a job, what else can your silly dog do but be cute? </title>
+      <link>./post/2020-12-01/dcc3b937c307d3adad9ea7b78b9dec5b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/dcc3b937c307d3adad9ea7b78b9dec5b/</guid>
+      <description>Original: SME SME Technology Story
+The physical differences in modern pet dogs are enormous. However, taxonomically, dogs and wolves all over the world belong to the same species. They are both capable of producing fertile offspring, whether in artificial or natural conditions.
+But domestic dogs have made the right choice in abandoning wolfdogs. Today, there are only a few hundred thousand gray wolves in the wild, but domestic dogs are all over the world.</description>
+    </item>
+    
+    <item>
+      <title> What do you know about Corgi? Today we&#39;re going to discuss </title>
+      <link>./post/2020-12-01/a2ae7ed10148531a329512b1060c974a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a2ae7ed10148531a329512b1060c974a/</guid>
+      <description>2020-11-27 16:26:26 Source: Abdominal Tearer&amp;rsquo;s Week
+Report
+The Corgi is very cute, easy to take care of, and takes up little time. The Corgi&amp;rsquo;s IQ is also very high, and he will quickly learn to master any skill he is taught, especially his appearance, and he is very good at playing tricks.
+Looking online, I learned that there are roughly three types of Corgi: the first Cardigan-Welsh Corgi, the second Pembroke Welsh Corgi, and the third Swedish Corgi.</description>
+    </item>
+    
+  </channel>
+</rss>

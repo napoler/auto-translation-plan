@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manager on Docs</title>
+    <link>./tags/manager/</link>
+    <description>Recent content in Manager on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/manager/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Canine infestation control becomes a new test of urban civilization </title>
+      <link>./post/2020-12-01/81cf390c65c3286e1d4c9bf9075d422a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/81cf390c65c3286e1d4c9bf9075d422a/</guid>
+      <description>The number of stray dogs without an owner is soaring, and the dog problem is poking at the city management &amp;ldquo;pain points &amp;ldquo;.
+Dog control becomes the new test of urban civilization.
+The reason why stray dogs have gradually become a &amp;ldquo;problem&amp;rdquo; in many cities is that owners have abandoned their dogs, lost their pets, and the uncontrolled breeding of stray dogs.
+● As the number of urban pet dogs increases, the social problems caused by dog ownership are becoming more and more serious, and many deep-seated problems have not been fully exposed, nor have they attracted the attention of the legislative, law enforcement and epidemic prevention departments.</description>
+    </item>
+    
+  </channel>
+</rss>

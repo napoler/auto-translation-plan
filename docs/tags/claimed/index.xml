@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Claimed on Docs</title>
+    <link>./tags/claimed/</link>
+    <description>Recent content in Claimed on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/claimed/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Pet cat bath &#34;wash&#34; dead owner claims 40,000, shopkeeper: only worth 6300 yuan </title>
+      <link>./post/2020-12-01/5222978e8dfb458e2b5d78339d1e1265/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/5222978e8dfb458e2b5d78339d1e1265/</guid>
+      <description>Modern Express News (Correspondent Dou Chun Ran, Wang Dani, trainee reporter) (Chai Junhu) Ms. Gao sent her pet cat to a pet store to take a bath, and it died of shock in the process. After the incident, Ms. Gao sued the owner of the pet store in court, claiming damages of 4 million dollars. million yuan. The Modern Express reporter learned that the Kunshan court recently heard the case.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Controlled on Docs</title>
+    <link>./tags/controlled/</link>
+    <description>Recent content in Controlled on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/controlled/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The Past and Present of the Transparent Chassis </title>
+      <link>./post/2020-12-01/91fee926568ab432c53ed3b49c5466b3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/91fee926568ab432c53ed3b49c5466b3/</guid>
+      <description>What if I see ants on the road? Do you hide or press? This is not a test of humanity, but a test of &amp;ldquo;eyesight&amp;rdquo;. How refreshing. Who can see ants in a car? That requires a X-ray eye plus a high magnifying glass! Well, there is indeed such a device, it is called transparent chassis, this technology was first applied by the Land Rover, but now is played by the Harvard big dog to play out the flower, today will pick up the history of this thing.</description>
+    </item>
+    
+  </channel>
+</rss>

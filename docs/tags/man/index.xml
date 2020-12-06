@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Man on Docs</title>
+    <link>./tags/man/</link>
+    <description>Recent content in Man on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/man/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Man Discovers &#34;Mystery Cave&#34;, Pours Coke in, and Out Came the &#34;Beast&#34;! </title>
+      <link>./post/2020-12-01/44d4689cafcf082666cdd8cc9d241cc3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/44d4689cafcf082666cdd8cc9d241cc3/</guid>
+      <description>2020-11-24 20:31:37 Source: Colorful Kite Tour says
+Report
+**Man discovers &amp;ldquo;mystery cave&amp;rdquo;, pours Coke in, and out comes the &amp;ldquo;beast&amp;rdquo;! ***
+Burrows are a great hiding place for many creatures. A small anteater was looking for ants when it was discovered by a hyena. The anteater was no match for the hyena and found a burrow when it was about to lose its life, and dug in to avoid the hyena&amp;rsquo;s pursuit.</description>
+    </item>
+    
+    <item>
+      <title> Old man trains stray dog to pull himself, netizens: really bad  </title>
+      <link>./post/2020-12-01/957d04cc050474e6b084707839ad2f0c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/957d04cc050474e6b084707839ad2f0c/</guid>
+      <description>2020-11-27 13:01:50 Source: Don&amp;rsquo;t let your heart fail you
+Report
+In the streets of Xi&amp;rsquo;an, Shaanxi Province, one often sees a small dog running along the road pulling an elderly man along.
+However, unlike the stories we&amp;rsquo;ve seen before, the dog&amp;rsquo;s owner is not a disabled person, but an able-bodied person.
+The dog is also the result of months of deliberate &amp;ldquo;training&amp;rdquo; by the old man.
+The old man said, the dog is a stray dog, initially picked it up when it was very thin.</description>
+    </item>
+    
+  </channel>
+</rss>

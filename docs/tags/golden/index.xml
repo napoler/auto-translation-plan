@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Golden on Docs</title>
+    <link>./tags/golden/</link>
+    <description>Recent content in Golden on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/golden/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Dogs know people from dogs, and shovelers&#39; personalities from dog ownership! </title>
+      <link>./post/2020-12-01/b8c157714e22f3a8a29da13cbd6ceb17/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/b8c157714e22f3a8a29da13cbd6ceb17/</guid>
+      <description>There is a saying that &amp;ldquo;a dog knows a man by his dog&amp;rdquo;, and from the dog&amp;rsquo;s behavior, you can probably know the character of the spade. We all know that the dog&amp;rsquo;s behavior is directly related to the shovel, if the shovel is kinder, then the dog will not be fierce. If the shovel is more fierce, then the dog will not be kind. So let&amp;rsquo;s take a look at the character of the shovelers who have several kinds of dogs.</description>
+    </item>
+    
+  </channel>
+</rss>

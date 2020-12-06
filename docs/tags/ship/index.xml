@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ship on Docs</title>
+    <link>./tags/ship/</link>
+    <description>Recent content in Ship on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/ship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> 72 Battleships Completed, China&#39;s Naval Defense Upgraded! </title>
+      <link>./post/2020-12-01/10a61e91f5d4f23a650b3581f18d31e4/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/10a61e91f5d4f23a650b3581f18d31e4/</guid>
+      <description>2020-11-28 14:48:11 Source: Global New Military
+Report
+Click on the arrow.
+&amp;ldquo;Blue Letter&amp;rdquo;
+Follow us!
+The 056 ship ushers in the closing work, our newest 056A series frigate &amp;ldquo;Aba&amp;rdquo; is put into service and joins the Southern War Area Navy. With the full load displacement of less than 1500 tons, why are the Type 056 frigates so popular?
+China&amp;rsquo;s coastline is too long and there are too many islands and reefs, so the purpose of building the 056 is to provide coastal defense and island patrol.</description>
+    </item>
+    
+  </channel>
+</rss>

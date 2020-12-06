@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feeders on Docs</title>
+    <link>./tags/feeders/</link>
+    <description>Recent content in Feeders on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/feeders/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> [90-second method] Feeding dog food? That&#39;s a legal liability, too. </title>
+      <link>./post/2020-12-01/9404eef1086cad5bcfaa1c8b1702fab3/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9404eef1086cad5bcfaa1c8b1702fab3/</guid>
+      <description>Stray dogs and cats can always be found in the streets, and most of them have experienced hardships and a rough fate. Fortunately, there are many kind-hearted people who will provide these homeless little ones with a full meal or even temporary shelter. **Wild shovelers, be aware that improper feeding can lead to legal risks! ***
+Related Cases
+On September 20, 2019, Zanzan, a man in his 60s in Zunyi, was knocked down by a dog on his way home and was diagnosed with multiple right-sided rib fractures, and was rated as having a Grade 10 disability after treatment.</description>
+    </item>
+    
+  </channel>
+</rss>

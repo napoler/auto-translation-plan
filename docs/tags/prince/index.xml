@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prince on Docs</title>
+    <link>./tags/prince/</link>
+    <description>Recent content in Prince on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/prince/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A Dog Named Prince exposes the plot of a four-panel comic strip with a cute little short-legged dog named Corgi everyday to adorable hearts [UNK][UNK]Time.com </title>
+      <link>./post/2020-12-01/93dc2762284b1a65f5cb8aea5af40503/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/93dc2762284b1a65f5cb8aea5af40503/</guid>
+      <description>Time.com
+Movies
+A Dog Named Prince
+Recently, a set of four-panel cartoons featuring Koji &amp;ldquo;The Prince&amp;rdquo; has been released. The cartoon uses an anthropomorphic approach to tell the story of &amp;ldquo;Prince&amp;rdquo;&amp;rsquo;s ridiculous moments and spoofs on his daily life, with a cute image and humorous writing style that makes people shout &amp;ldquo;I want more! &amp;ldquo;
+Koji&amp;rsquo;s &amp;ldquo;short legs&amp;rdquo; has always been a popular &amp;ldquo;nudging point&amp;rdquo; and a &amp;ldquo;notch&amp;rdquo; used as a joke.</description>
+    </item>
+    
+  </channel>
+</rss>

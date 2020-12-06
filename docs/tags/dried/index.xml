@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dried on Docs</title>
+    <link>./tags/dried/</link>
+    <description>Recent content in Dried on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/dried/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> What is the best brand of dog food? </title>
+      <link>./post/2020-12-01/042b91d0d8fe09c116ba7c2a11be7040/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/042b91d0d8fe09c116ba7c2a11be7040/</guid>
+      <description>Every dog shovel officer who brings home a dog, will love the cute dog. But for puppies in a new environment, the environment is already unfamiliar, and if the wrong dog food is chosen, it will directly affect the dog&amp;rsquo;s subsequent development. Choosing a suitable dog food for puppies is very critical, and an important way to continue the healthy growth of your dog is to choose a nutritionally rich and balanced, and safe and natural dog food.</description>
+    </item>
+    
+  </channel>
+</rss>

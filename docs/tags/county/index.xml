@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>County on Docs</title>
+    <link>./tags/county/</link>
+    <description>Recent content in County on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/county/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Lanzhou: Injured peregrine falcon settles in wildlife rescue station </title>
+      <link>./post/2020-12-01/67d0a9f968d2dd5defd16be32e16882f/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/67d0a9f968d2dd5defd16be32e16882f/</guid>
+      <description>Original title: Warm-hearted citizens timely rescued the injured peregrine falcon and made it &amp;ldquo;home&amp;rdquo; in the wildlife rescue station.
+Injured peregrine falcon.
+On November 26, Mr. Wang, a citizen, reported that he and his colleagues found an injured peregrine falcon on the rooftop of the Asia-Europe International (AEI) building, and they carried it back to the building and put it into a small cardboard box. In the afternoon, the injured peregrine falcon was accepted by the Gansu Lanzhou Wildlife Rescue Station.</description>
+    </item>
+    
+  </channel>
+</rss>

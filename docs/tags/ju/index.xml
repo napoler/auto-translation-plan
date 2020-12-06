@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ju on Docs</title>
+    <link>./tags/ju/</link>
+    <description>Recent content in Ju on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/ju/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> After a new play in Hsu Jiaqi, he is still a cute pet idol! </title>
+      <link>./post/2020-12-01/750de3ddb3292138783ccc450c84bea8/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/750de3ddb3292138783ccc450c84bea8/</guid>
+      <description>Xu Jiaqi is a very good girl, thanks to her participation in &amp;ldquo;Youth With You&amp;rdquo;, her light can not be completely hidden. The third place came out good, and now the resources are getting better and better, it turns out that she is a multi-talented girl with high face value and her popularity is very high, after participating in the program, there was a wave of enthusiasm, she got a lot of resources, although she is not a C-star, but her resources are much better than the first and second.</description>
+    </item>
+    
+  </channel>
+</rss>

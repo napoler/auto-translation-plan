@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vietnamese on Docs</title>
+    <link>./tags/vietnamese/</link>
+    <description>Recent content in Vietnamese on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/vietnamese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A Vietnamese Puppy Wrote a Poem About a Cat Because It Looks Like a Cat </title>
+      <link>./post/2020-12-01/7da121417b0fb2f2e0e70f14cfb3e316/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/7da121417b0fb2f2e0e70f14cfb3e316/</guid>
+      <description>Dui, a Vietnamese dog, has quickly become popular on the Internet because it looks like a cat and is very cute, with netizens calling it &amp;ldquo;the funniest ball of fur&amp;rdquo; and speculating about its breed, according to a Feb. 26 report in the British newspaper Metro.
+Dui is a cross between a Corgi and a Vietnamese Hmong dog, and some joked that he might be a mix of a Corgi and an English Shorthair.</description>
+    </item>
+    
+  </channel>
+</rss>

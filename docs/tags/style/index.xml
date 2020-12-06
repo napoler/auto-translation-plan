@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Style on Docs</title>
+    <link>./tags/style/</link>
+    <description>Recent content in Style on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/style/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Anti-sexual frigidity: glamour and desire under maximalism </title>
+      <link>./post/2020-12-01/ad778f17515dec28454af0ec0ab86927/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ad778f17515dec28454af0ec0ab86927/</guid>
+      <description>Original Dobby Aesthetics
+A few years ago, minimalism was on the rise, and I followed this trend and started to break away.
+But by now, I&amp;rsquo;ve thrown away quite a few things, moved more and more things at a time, bought more and more, and have an unabated desire to shop.
+Now it seems that minimalist living is not for everyone, and we should be cautious about following this trend.</description>
+    </item>
+    
+  </channel>
+</rss>

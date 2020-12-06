@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ugliness on Docs</title>
+    <link>./tags/ugliness/</link>
+    <description>Recent content in Ugliness on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/ugliness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> The ugliest dog in the dog world, with a face so ugly that no one dared to go near it! </title>
+      <link>./post/2020-12-01/41377eedd46a6112a0acfd4eaa102410/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/41377eedd46a6112a0acfd4eaa102410/</guid>
+      <description>2020-11-27 16:01:32 Source: Abdominal Tearer&amp;rsquo;s Week
+Report
+I&amp;rsquo;ve seen ugly dogs, I&amp;rsquo;ve never seen such an ugly dog, they say bulldogs are already very ugly, but after seeing this dog, I found that bulldogs are already quite beautiful dogs, this dog is dark and ugly.
+Of course, although this dog is very ugly, the owner also likes it, so he likes its ugliness.
+Everyone&amp;rsquo;s interest is different, although the dog is ugly, but still acceptable range, unlike some people have pigs as pets, that is really a bit unbearable, after all, the dog is still man&amp;rsquo;s best friend.</description>
+    </item>
+    
+  </channel>
+</rss>

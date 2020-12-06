@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pack on Docs</title>
+    <link>./tags/pack/</link>
+    <description>Recent content in Pack on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/pack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A pack of African wild dogs drink from a river, a large hippo attacks, and the dogs withdraw. </title>
+      <link>./post/2020-12-01/2fc4a04d97cdd9a1942d1e85c0625783/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/2fc4a04d97cdd9a1942d1e85c0625783/</guid>
+      <description>The African wild dog is a very aggressive animal, although the wild dog is not very large and may not seem as big as our domestic dogs. However, the pack nature of the wild dog makes them one of the most important predators on the African savannah, and some people even consider them to be the third top predator in the African savannah besides lions and hyenas.
+Wild dog packs are strictly disciplined, preying on animals several times their size through strength in numbers and teamwork.</description>
+    </item>
+    
+    <item>
+      <title> Hyenas and African wild dogs are similar in size, but why do they say that the wild dog must win in a race between the two? </title>
+      <link>./post/2020-12-01/496bc073d44f2a8b1d3d22e29cfda77e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/496bc073d44f2a8b1d3d22e29cfda77e/</guid>
+      <description>Hyenas and African wild dogs are similar in size, but why do they say that the wild dog must win in a race between the two?
+Nature can be very cruel, and one must always be on the lookout for animals that might sneak up on you, as this competition is the difference between life and death. In the African grasslands, there are two types of animals, hyenas and wild African dogs, which are about the same size.</description>
+    </item>
+    
+  </channel>
+</rss>

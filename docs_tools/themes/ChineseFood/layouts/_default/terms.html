@@ -2,7 +2,7 @@
   {{ $data := .Data }}
   <div class="container ui" role="main">
     <article class="post-preview">
- 
+      {{ block "header" . }}{{ partial "header.html" . }}{{ end }}
       {{ range $key, $value := .Data.Terms.ByCount }}
       <a href="{{ $.Site.LanguagePrefix }}/{{ $data.Plural }}/{{ $value.Name | urlize }}" class="list-group-item">
           {{ $value.Name }}<span class="badge">{{ $value.Count }}</span></a>

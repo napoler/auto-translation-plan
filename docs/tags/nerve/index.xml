@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nerve on Docs</title>
+    <link>./tags/nerve/</link>
+    <description>Recent content in Nerve on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/nerve/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A year ago, a 54-year-old man died of rabies in Zhejiang province after being bitten by a wild dog without vaccination. </title>
+      <link>./post/2020-12-01/ede33dee64408423dcf102c0b85969df/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/ede33dee64408423dcf102c0b85969df/</guid>
+      <description>Recently, the Emergency Department of the First Affiliated Hospital of Zhejiang University School of Medicine treated a 54-year-old Tiantai man who died of rabies one year after he was bitten by a wild dog and spent a week in the EICU (Emergency Intensive Care Unit). The lesson of blood and tears is heartbreaking.
+&amp;ldquo;It&amp;rsquo;s been almost a year since I was bitten by a wild dog, how can a person just lose it?</description>
+    </item>
+    
+  </channel>
+</rss>

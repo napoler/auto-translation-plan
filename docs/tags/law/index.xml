@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Law on Docs</title>
+    <link>./tags/law/</link>
+    <description>Recent content in Law on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/law/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Man scalded pregnant mother cat with boiling water in the street: Animal cruelty is a disease, we have to use the rule of law! </title>
+      <link>./post/2020-12-01/a1a61f4c95d709f08171a04061751c3e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a1a61f4c95d709f08171a04061751c3e/</guid>
+      <description>On October 19, a video of a man scalding a cat with boiling water in Taiyuan, Shanxi province, sparked outrage!
+In the video, the man locked a white cat in a cage, with just boiled water and poured the cat, was found by the loving people passing by, immediately stopped and the police, the man was taken away by the police, the cat was sent to the veterinary hospital for treatment.</description>
+    </item>
+    
+  </channel>
+</rss>

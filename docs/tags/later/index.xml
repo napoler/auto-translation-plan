@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Later on Docs</title>
+    <link>./tags/later/</link>
+    <description>Recent content in Later on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/later/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Fatou swims and drowns, but not all dogs can swim! </title>
+      <link>./post/2020-12-01/63152259ffe5d9a7720f4480037106e8/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/63152259ffe5d9a7720f4480037106e8/</guid>
+      <description>Now that the weather is getting hotter and hotter, many shovelers will take their dogs to the pet store or outdoors to go swimming in order to help them with the heat.
+However, do you know that it is actually very dangerous to take your dog swimming at will?
+Before that, a dog owner thought that his dog had hip problems, so he brought him to the pet swimming pool to swim.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foods on Docs</title>
+    <link>./tags/foods/</link>
+    <description>Recent content in Foods on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/foods/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cibo: A dog food that shovelers can&#39;t miss! </title>
+      <link>./post/2020-12-01/a58c8cd3ebcd7e194a88027ff74ab5c2/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/a58c8cd3ebcd7e194a88027ff74ab5c2/</guid>
+      <description>As one of the most popular dog food brands, Xibao&amp;rsquo;s strategic layout and development path has attracted a lot of attention since it has been ranked among the top selling dog food brands. In the Internet era, social media, such as live broadcast, short video, public, etc., has become a new development field for the brand. With the innovation and exploration of online channel operation, Cibo breaks the inherent mode of dog food sales, making consumers not only customers, but also friends, and becoming a group of warm-hearted family who love pets and life.</description>
+    </item>
+    
+    <item>
+      <title> First time owning a cat? Teach you 3 points to choose reliable cat food </title>
+      <link>./post/2020-12-01/2a261a7f1094a8b3798533061239ed5a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/2a261a7f1094a8b3798533061239ed5a/</guid>
+      <description>Nowadays, pets have gradually become an indispensable part of every home, and more and more people are paying attention to the nutritional health of their pets. However, the quality of the various products on the market varies, and novice shovelers are always worried that they will encounter mines and step on pits, not knowing how to choose the right cat food for their cat owners. You know, if you don&amp;rsquo;t choose the right cat food, your cat&amp;rsquo;s owner will not only suffer from various diseases, but also shorten his life expectancy.</description>
+    </item>
+    
+    <item>
+      <title> Pet cat&#39;s saliva stinks, cat saliva stinks is a disease, 3 easy solutions </title>
+      <link>./post/2020-12-01/27b664bb1613e73ac657ee52bc744f3e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/27b664bb1613e73ac657ee52bc744f3e/</guid>
+      <description>2020-11-26 16:44:57 Source: Small Exhibits Big History
+Report
+If you have a pet cat at home, most people like to pick the cat up and kiss it. Many pet owners also find that their cats actually have bad breath, or that their saliva smells bad, and after licking their fur, the whole body smells like saliva. There are several reasons for this situation, which pet owners can compare and then deal with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vaccination on Docs</title>
+    <link>./tags/vaccination/</link>
+    <description>Recent content in Vaccination on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/vaccination/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> How should pet owners take care of Corgi during the &#34;golden period&#34; of 3~6 months? </title>
+      <link>./post/2020-12-01/4ebc1902fc55a0108126085e416ac33a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/4ebc1902fc55a0108126085e416ac33a/</guid>
+      <description>Corgi dogs are 3 months old, which is equivalent to a 6-year-old child, their physical and mental development will change a lot at this stage, and 3 to 6 months is the golden period of Corgi, seize this stage, the dog is well behaved and beautiful, so how should pet owners take care of them at this stage?
+1、Form the habit of feeding at regular intervals.
+After 3 months of age, a Corgi&amp;rsquo;s digestive system is generally more complete.</description>
+    </item>
+    
+  </channel>
+</rss>

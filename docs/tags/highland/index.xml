@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Highland on Docs</title>
+    <link>./tags/highland/</link>
+    <description>Recent content in Highland on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/highland/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Top 10 Cute Short-Legged Dogs </title>
+      <link>./post/2020-12-01/1f23d7c4532787b04b7f339b21b182d4/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/1f23d7c4532787b04b7f339b21b182d4/</guid>
+      <description>1 - Corgi  When it comes to short legs, we have to mention the new web sensation in the dog world - the Corgi. By virtue of its rounded buttocks and limbs, the Corgi has become the new favorite of dog breeders.
+The Corgi&amp;rsquo;s two main adorable points are its round butt, good feel and elasticity, and its legs are so short that even going upstairs is difficult, which is very cute and makes people want to hold it in their arms and jerk it off from head to toe.</description>
+    </item>
+    
+  </channel>
+</rss>

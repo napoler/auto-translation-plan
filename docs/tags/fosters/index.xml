@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fosters on Docs</title>
+    <link>./tags/fosters/</link>
+    <description>Recent content in Fosters on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/fosters/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A cat triggers an entrepreneurial boom </title>
+      <link>./post/2020-12-01/c4d3c4439cfe0aeee30b7e54c8a22e08/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/c4d3c4439cfe0aeee30b7e54c8a22e08/</guid>
+      <description>**The reason for this is because of the fact that you can&amp;rsquo;t get a good deal of the money you&amp;rsquo;re going to need for your own business.
+When she woke up early in the morning, Maomao used to pick up her cell phone and shoot short videos of the eight cats in the house, and sent them to the &amp;ldquo;family cat foster&amp;rdquo; group she had formed one by one to report to the parents that the &amp;ldquo;master&amp;rdquo; was safe.</description>
+    </item>
+    
+  </channel>
+</rss>

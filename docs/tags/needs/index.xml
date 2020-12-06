@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Needs on Docs</title>
+    <link>./tags/needs/</link>
+    <description>Recent content in Needs on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/needs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cat addiction, cat ownership &#34;causes poverty&#34;? The &#34;cat economy&#34; is being boosted by young people. </title>
+      <link>./post/2020-12-01/5bab22e9f39b975c482dab2e7b60b71c/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/5bab22e9f39b975c482dab2e7b60b71c/</guid>
+      <description>Cats are cute and can be carried around. Nowadays, cats as pets are more and more sought after by young people, cat breeding, go to the cat coffee jerk cat, &amp;ldquo;cloud sucking cat&amp;rdquo; has become the daily life of many young people.
+For cats, the wallet is &amp;ldquo;thin &amp;ldquo;.
+&amp;ldquo;I may not eat, but the cat must eat well.&amp;rdquo; &amp;ldquo;Hard earned living for cat owners.&amp;rdquo; &amp;hellip;&amp;hellip; &amp;ldquo;Cat Slave&amp;rdquo; They use all kinds of witty passages to ridicule the daily life of cat ownership.</description>
+    </item>
+    
+  </channel>
+</rss>

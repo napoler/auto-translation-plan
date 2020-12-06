@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Morning Sun on Docs</title>
+    <link>./tags/morning-sun/</link>
+    <description>Recent content in Morning Sun on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/morning-sun/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> As we all know, the meow is a lively and energetic animal. </title>
+      <link>./post/2020-12-01/e13241002554c80c81898ab179f95f55/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e13241002554c80c81898ab179f95f55/</guid>
+      <description>2020-11-27 22:58:30 Source: Litterbug
+Report
+With the first rays of the morning sun
+Meow stretches its back
+After making your bed and washing up, you&amp;rsquo;re ready to work for a living!
+The meow is really a lively and energetic creature!
+**No way! ***
+The face is filled with anticipation for the job.
+And the love of work
+Just one year later
+Why work?
+Why do I always have to go to work?</description>
+    </item>
+    
+  </channel>
+</rss>

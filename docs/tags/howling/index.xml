@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Howling on Docs</title>
+    <link>./tags/howling/</link>
+    <description>Recent content in Howling on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/howling/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> American Movie Emperor Beagle &#34;shot&#34; plays dead and will add his own drama </title>
+      <link>./post/2020-12-01/5e907b10aecd92d0eed6e74c87b0979b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/5e907b10aecd92d0eed6e74c87b0979b/</guid>
+      <description>The Daily Mail published an anecdote on Feb. 13 about a dog owner in Las Vegas, Nevada, who aimed a gun at his Beagle and fired two shots.
+__
+In the video, the hostess poses with her thumb, index finger and middle finger in the shape of a gun and dubs herself &amp;ldquo;Bang! Bang!&amp;rdquo; The dog is very cooperative and emotional, howling twice as the owner &amp;ldquo;shoots,&amp;rdquo; as if imitating the sad scene in a gunfight movie where the main character is shot and about to collapse, and then collapses on the mat next to her.</description>
+    </item>
+    
+  </channel>
+</rss>

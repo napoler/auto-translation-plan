@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Functions on Docs</title>
+    <link>./tags/functions/</link>
+    <description>Recent content in Functions on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/functions/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> First time owning a cat? Teach you 3 points to choose reliable cat food </title>
+      <link>./post/2020-12-01/2a261a7f1094a8b3798533061239ed5a/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/2a261a7f1094a8b3798533061239ed5a/</guid>
+      <description>Nowadays, pets have gradually become an indispensable part of every home, and more and more people are paying attention to the nutritional health of their pets. However, the quality of the various products on the market varies, and novice shovelers are always worried that they will encounter mines and step on pits, not knowing how to choose the right cat food for their cat owners. You know, if you don&amp;rsquo;t choose the right cat food, your cat&amp;rsquo;s owner will not only suffer from various diseases, but also shorten his life expectancy.</description>
+    </item>
+    
+  </channel>
+</rss>

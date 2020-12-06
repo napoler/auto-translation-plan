@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Spahn on Docs</title>
+    <link>./tags/spahn/</link>
+    <description>Recent content in Spahn on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/spahn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> A very spoiled brown husky that has traveled to all 48 states! </title>
+      <link>./post/2020-12-01/6aca539b52f168847abf2bd241a13749/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/6aca539b52f168847abf2bd241a13749/</guid>
+      <description>2020-11-26 09:46:40 Source: MiB Photography Community
+Report
+This distinctive husky made its debut on the social world section of the social media site Instagram. Unlike other huskies, this dog has a husky body and sapphire blue eyes, but his hair is brown. It&amp;rsquo;s very new, and it looks like a gray tree trunk.
+&amp;ldquo;The Quoi Husky is actually not exactly brown in appearance. It still has a small white spot on its chest, and how many huskies do you see that look like it?</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shared on Docs</title>
+    <link>./tags/shared/</link>
+    <description>Recent content in Shared on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/shared/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Say &#34;No&#34; to Uncivilized Behavior】Don&#39;t Let Stray Dogs Become a Problem </title>
+      <link>./post/2020-12-01/971a39a71631775a0ea0ceeabe428aa0/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/971a39a71631775a0ea0ceeabe428aa0/</guid>
+      <description>Recently, the reporter saw many stray dogs scurrying around the community in Qing Qi, which not only affects the cityscape, but also brings potential problems to the residents. I hope that dog owners do not abandon their pets, but also hope that the relevant departments to manage stray dogs.
+Please consciously comply with →
+The &amp;ldquo;Inner Mongolia Autonomous Region Regulations for the Promotion of Civilized Behavior&amp;rdquo; Article 24 of the city in the built-up areas of keeping dogs, to comply with the following code of conduct: (d) do not abuse, abandoned dogs.</description>
+    </item>
+    
+  </channel>
+</rss>

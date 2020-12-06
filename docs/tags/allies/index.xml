@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Allies on Docs</title>
+    <link>./tags/allies/</link>
+    <description>Recent content in Allies on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/allies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> U.S. Delivers Drones, Missiles to Philippines, Top Officials Speak on South China Sea </title>
+      <link>./post/2020-12-01/9ef14b4e81245225c8a7773fb66cd9de/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9ef14b4e81245225c8a7773fb66cd9de/</guid>
+      <description>2020-11-26 18:20:43 Source: Global Military Times
+Report
+The U.S. delivered weapons worth nearly $33 million to the Philippines this week, including 100 wire-guided missiles, 12 thermal imaging systems, 24 500-pound bombs and an unmanned surveillance aircraft, the State Department said, according to the U.S. Army&amp;rsquo;s Stars and Stripes newspaper of 25 March.
+Robert O&amp;rsquo;Brien (center) inspects a TOW-2A missile system in Manila.
+A $14.79 million ScanEagle unmanned aerial vehicle was turned over to the Philippine Navy on Wednesday to enhance its maritime surveillance and border security capabilities, according to a statement released the same day by the U.</description>
+    </item>
+    
+  </channel>
+</rss>

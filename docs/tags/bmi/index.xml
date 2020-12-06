@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bmi on Docs</title>
+    <link>./tags/bmi/</link>
+    <description>Recent content in Bmi on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/bmi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> BMI New Poem: &#34;One Hundred Sheep Flying Over My Head </title>
+      <link>./post/2020-12-01/89d3ff21c1b9cc1ff61a2dabff05eff8/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/89d3ff21c1b9cc1ff61a2dabff05eff8/</guid>
+      <description>BMI New Poem: &amp;ldquo;One Hundred Sheep Flying Over My Head
+2020-11-27 17:07:45 Source: Nextpoint.com</description>
+    </item>
+    
+  </channel>
+</rss>

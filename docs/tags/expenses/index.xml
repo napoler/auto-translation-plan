@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Expenses on Docs</title>
+    <link>./tags/expenses/</link>
+    <description>Recent content in Expenses on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/expenses/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cat Owner Sues for Nearly $9,000 in Damages for Accidental Death of Petting Cat </title>
+      <link>./post/2020-12-01/135bc6ab1d06907b1bb84a7973881d28/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/135bc6ab1d06907b1bb84a7973881d28/</guid>
+      <description>After being introduced by a friend, Mr. Wang sent his male cat to Mr. Liu to get a cat, and after just one month, the cat was injured, lost his hair, and eventually died after being treated by the veterinary hospital. Beichen- Beijing headline reporter learned on November 25, Beijing Xicheng Court finally ruled that Liu Mou compensate Wang Mou 8886 yuan.
+In May 2018, Wang was introduced by a friend to a short male cat that was sent to Liu&amp;rsquo;s home, which was healthy and free of any disease.</description>
+    </item>
+    
+  </channel>
+</rss>

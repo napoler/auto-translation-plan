@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drives on Docs</title>
+    <link>./tags/drives/</link>
+    <description>Recent content in Drives on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/drives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> HAVER DOG 2.[UNK] 4WD 4&#43;6 for all-terrain play </title>
+      <link>./post/2020-12-01/3ff25d5394df4d19cb4e3d8d1c4106b5/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/3ff25d5394df4d19cb4e3d8d1c4106b5/</guid>
+      <description>Recently, at the Guangzhou International Auto Show, Haval Dagoo &amp;ldquo;Chinese Garden Dog Edition&amp;rdquo; officially opened for pre-sale, which is the most cost-effective model among the Haval Dagoo 2.0T 4WD. As a target of &amp;ldquo;one more scale to pursue&amp;rdquo; by the high-end urban SUV enthusiasts, the Haval Dagoo 2.0T all-wheel drive model, once &amp;ldquo;out of the cage&amp;rdquo;, is armed with off-road performance comparable to that of SUVs of more than 300,000 joint ventures, making everyone very excited.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Safety on Docs</title>
+    <link>./tags/safety/</link>
+    <description>Recent content in Safety on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/safety/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> There was a dog&#39;s head on the driver&#39;s side of the car, and I thought it was a dog driving the car, but when I saw it, I realized it was a mistake. </title>
+      <link>./post/2020-12-01/7b5b852b8261a32016e9168fcc0722b9/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/7b5b852b8261a32016e9168fcc0722b9/</guid>
+      <description>Nowadays, living conditions have become better and private cars are no longer rare, which makes it much easier for people to travel. Especially for those who have elderly people, children and pets at home, there is no need to worry about them not being able to go out because of the inconvenience of the car. However, the most important thing about driving is to pay attention to safety, as the saying goes: driving is not standardized, family members two lines of tears ah.</description>
+    </item>
+    
+  </channel>
+</rss>

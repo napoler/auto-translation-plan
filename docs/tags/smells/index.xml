@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smells on Docs</title>
+    <link>./tags/smells/</link>
+    <description>Recent content in Smells on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/smells/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Pet cat&#39;s saliva stinks, cat saliva stinks is a disease, 3 easy solutions </title>
+      <link>./post/2020-12-01/27b664bb1613e73ac657ee52bc744f3e/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/27b664bb1613e73ac657ee52bc744f3e/</guid>
+      <description>2020-11-26 16:44:57 Source: Small Exhibits Big History
+Report
+If you have a pet cat at home, most people like to pick the cat up and kiss it. Many pet owners also find that their cats actually have bad breath, or that their saliva smells bad, and after licking their fur, the whole body smells like saliva. There are several reasons for this situation, which pet owners can compare and then deal with.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Search on Docs</title>
+    <link>./tags/search/</link>
+    <description>Recent content in Search on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/search/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> &#34;Yang&#39;s cat has been found, and they say it&#39;s used in this way, so come in and learn!&#34; Hahaha  </title>
+      <link>./post/2020-12-01/9be737e8c125821694a7f9cac80afa7b/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9be737e8c125821694a7f9cac80afa7b/</guid>
+      <description>A few days ago, I found a hot search on Weibo: #Yang Gao&amp;rsquo;s cat is lost#.
+It is known that the golden gradient layer, called Tangerine, is a little baby raised by Yang Gao.
+But on November 11, the little tangerine, which was placed in a relative&amp;rsquo;s home, suddenly ran away from home.
+When she learned the news, her sister sent out a message at midnight asking for help: &amp;ldquo;Just be safe and don&amp;rsquo;t wander the streets!</description>
+    </item>
+    
+  </channel>
+</rss>

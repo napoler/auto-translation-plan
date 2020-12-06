@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mood on Docs</title>
+    <link>./tags/mood/</link>
+    <description>Recent content in Mood on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/mood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Cats with a short life span often have these six characteristics. </title>
+      <link>./post/2020-12-01/9d943802703da75e39a4d72cdfe12aab/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/9d943802703da75e39a4d72cdfe12aab/</guid>
+      <description>A cat&amp;rsquo;s lifespan depends on many factors, but they all manifest themselves physically. Generally, cats with short life span tend to have these 6 characteristics, hopefully your cat will have none of them.
+ Overweight  In both humans and cats, obesity can lead to many diseases. For example, diabetes, heart disease and other problems.
+How can you tell if your cat is overweight? You can touch your cat near the chest with your hand, and if you can&amp;rsquo;t feel the ribs, then it can be said to be obese.</description>
+    </item>
+    
+  </channel>
+</rss>

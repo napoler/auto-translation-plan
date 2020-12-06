@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>German on Docs</title>
+    <link>./tags/german/</link>
+    <description>Recent content in German on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/german/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Such a cute dog doesn&#39;t want to be touched? Shovel: Danger! It&#39;s aggressive! </title>
+      <link>./post/2020-12-01/b675135ff79b8cadeda18a03b9661f37/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/b675135ff79b8cadeda18a03b9661f37/</guid>
+      <description>German Shepherd (German) The Shepherd is also used as a police dog, search and rescue dog, etc. due to its size, powerful appearance, and ability to work. In the UK, there was a German Shepherd who, despite being 4 years old, was still small enough to be a corgi and was often thought to be a puppy by passersby, but in fact he had a rare disease.
+Tiger the German Shepherd suffers from dwarfism.</description>
+    </item>
+    
+  </channel>
+</rss>

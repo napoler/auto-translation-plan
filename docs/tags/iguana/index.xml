@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iguana on Docs</title>
+    <link>./tags/iguana/</link>
+    <description>Recent content in Iguana on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/iguana/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> Iguana: Joo Ji-hoon is just a little boy in front of Kim Hye-soo. </title>
+      <link>./post/2020-12-01/e7e3855c25ae0c80aea8f6ba24571889/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/e7e3855c25ae0c80aea8f6ba24571889/</guid>
+      <description>The new album, &amp;lsquo;Hyena&amp;rsquo; (also known as &amp;lsquo;Hyena&amp;rsquo; and &amp;lsquo;Rich Debaters&amp;rsquo;), is a new movie by Jang Tae Yoo from &amp;lsquo;You from the Stars&amp;rsquo; and features Kim Hye Soo and Joo Ji Hoon as the main characters. In this movie, she will be playing the lead role of a man who is a woman of the same gender, and she will be playing a woman who is a woman of the same gender.</description>
+    </item>
+    
+    <item>
+      <title> Why do hyenas often overstep their bounds? What animal is it afraid to mess with? </title>
+      <link>./post/2020-12-01/fa6dc331189857a7b4dc446e0708b319/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/fa6dc331189857a7b4dc446e0708b319/</guid>
+      <description>Probably one of the most feared and apex predators in sub-Saharan Africa, hyenas possess great strength, jaws capable of crushing bones, a bite second only to saltwater crocodiles and great white sharks, and incredible stamina, intelligence, and absolute strength. In fact, packs of hyenas are so strong that they often challenge lions and leopards, sometimes driving them out of their territory.
+Hyenas are mostly scavengers, opportunists, and parasitic predators, meaning they steal food from the prey of other predators.</description>
+    </item>
+    
+  </channel>
+</rss>

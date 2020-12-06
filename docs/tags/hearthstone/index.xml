@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hearthstone on Docs</title>
+    <link>./tags/hearthstone/</link>
+    <description>Recent content in Hearthstone on Docs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="./tags/hearthstone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title> 12 wins in the arena in May, the first Meowth 501 interview! </title>
+      <link>./post/2020-12-01/73d5828d622f5048af9a1c10cdc4757d/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>./post/2020-12-01/73d5828d622f5048af9a1c10cdc4757d/</guid>
+      <description>Hearthstone Legend May arena 12 wins ranked number one mystery man &amp;ldquo;Meow 501&amp;rdquo; interview.
+About Individuals
+geyuan6: Hi 501, you&amp;rsquo;re #1 in the arena May rankings just released by China National Service, congratulations! I&amp;rsquo;m not sure if I&amp;rsquo;ve got the right stuff for you.
+The first thing you need to do is to get your own copy of the book. A lot of people have been in the business for a long time.</description>
+    </item>
+    
+  </channel>
+</rss>
