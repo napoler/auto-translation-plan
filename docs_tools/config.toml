@@ -1,11 +1,11 @@
 #j建议设置baseurl，可以减少问题
 #baseurl = "https://www.terrychan.org/hugoautodocs/"
-baseurl = "./"
+baseurl = "/"
 contentdir    = "content"
 layoutdir     = "layouts"
-#publishdir    = "public"
-publishdir    = "../docs"
-title = "Docs"
+publishdir    = "../../public"
+#publishdir    = "../docs"
+title = "Pet"
 canonifyurls  = true
 
 DefaultContentLanguage = "en"
