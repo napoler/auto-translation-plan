@@ -1,0 +1,8 @@
+elasticsearch==7.10.0
+markdownify==0.5.3
+pymongo==3.11.1
+summa==1.2.0
+Bert_clear_title==0.0.0.1.2
+PyYAML==5.3.1
+tkitJson==0.0.0.3
+tkitTranslator==0.1.2
