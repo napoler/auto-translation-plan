@@ -8,7 +8,23 @@ from tkitTranslator import Translator
 import pymongo
 # 引入安装的库
 import Bert_clear_title
-from .fun import md5
+from albert_pytorch import classify
+"""
+本脚本用于处理之前的内容
+
+
+"""
+
+
+
+
+
+
+
+
+#加载判断质量
+tclass = classify(model_name_or_path="/mnt/data/dev/model/classification-text-good-bad/model",num_labels=2,device="cpu") 
+
 #模型下载自https://www.kaggle.com/terrychanorg/bertcleartitlemodel
 TClear =Bert_clear_title.Marker(model_path="/mnt/data/dev/model/Bert_clear_title/model/")
 TClear.load_model()
@@ -17,52 +33,53 @@ TClear.load_model()
 
 client = pymongo.MongoClient("localhost", 27017)
 DB = client.hugo
-
-
-
-
-es = Elasticsearch('127.0.0.1:9200')
-index_v="terry-index"
-index_v="scrapy_search-2020-11"
-doc_type_v="items"
-query={"query" : {"match_all" : {}}} 
-scanResp= helpers.scan(client= es, query=query, scroll= "10m", index= index_v , doc_type=doc_type_v , timeout="10m")
-# Tjson=tkitJson.Json("data/data.json")
+OldDB=client.gpt2Write
 items=[]
-for i,resp in enumerate(scanResp):
+for i,resp in enumerate(OldDB.content_pet.find({})):
+    # print(resp)
+    # continue
+    # if i >100:
+    #     break
+        
     qid = resp['_id']
-    #尝试兼容旧的出重复
-    md5id=md5(resp['_source']['title']+resp['_source']['content'])   
+    
     #检查id是否存在，存在则内容已经翻译过跳过。
-    if DB.content_pet.find_one({"_id":qid}) or DB.content_pet.find_one({"_id":md5id}):
+    if DB.content_pet.find_one({"_id":qid}):
         continue
     #跳过垃圾内容
     if DB.content_pet_bad.find_one({"_id":qid}):
         continue
- 
     print("\n"*2,i)
 
+    p=tclass.pre(resp['content'][:300])
+    print("内容质量（0,1）：",p)
+    if int(p)==0:
+        #低质量
+        data=[{"_id":qid,"version":0,"original":resp}]
+        DB.content_pet_bad.update({'_id':qid},{'$set':data[0]},True)
+        continue
     
-    # print(resp)
-    # print(resp['_source']['title'])
-    one=TClear.pre(resp['_source']['title'])
+    # continue
+    #清理标题
+    one=TClear.pre(resp['title'])
 
     # print(TClear.get_mark_data(one[0]))
     if len(TClear.get_mark_data(one[0]))==0:
         #判别内容质量提取失败，加入到乎略内容列表
-        items.append(resp['_source']['title'])
+        items.append(resp['title'])
         data=[{"_id":qid,"version":0,"original":resp}]
         DB.content_pet_bad.update({'_id':qid},{'$set':data[0]},True)
     else:
         try:
             T = Translator()
-            print(resp['_source']['title'])
+            print(resp['title'])
+            print(resp['_id'])
             title=T.render(TClear.get_mark_data(one[0])["title"][0])
-            content=T.render(resp['_source']['content'])
+            content=T.render(resp['content'])
             print(title)
             print(content)
             if content.get("data") and title.get("data"):
-                data=[{"title":title,"content":content,"_id":qid,"version":0,"type":"new","original":resp}]
+                data=[{"title":title,"content":content,"_id":qid,"version":0,"type":"old","original":resp}]
                 #添加数据
                 # Tjson.save(data)
                 DB.content_pet.update({'_id':qid},{'$set':data[0]},True)

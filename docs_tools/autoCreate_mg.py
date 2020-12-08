@@ -16,15 +16,9 @@ client = pymongo.MongoClient("192.168.192.173", 27017)
 DB = client.hugo
 
 import  hashlib
-def md5(string):
-    # 对要加密的字符串进行指定编码
-    string = string.encode(encoding ='UTF-8')
-    # md5加密
-    # print(hashlib.md5(string))
-    # 将md5 加密结果转字符串显示
-    string = hashlib.md5(string).hexdigest()
-    return string
-import os
+
+
+
 def mkdir(path):
     # 去除首位空格
     path=path.strip()
@@ -46,10 +40,24 @@ def mkdir(path):
         # 如果目录存在则不创建，并提示目录已存在
         # print (path+' 目录已存在')
         return False
-        
-# Tjson=tkitJson.Json("../data/data.json")
-for i,item in enumerate(DB.content_pet.find({})):
-    # print(item)
+
+
+
+
+
+# 重置内容增加这个参数
+task=1
+
+
+
+#重置
+# for i,item in enumerate(DB.content_pet.find({})):
+#     print(i)
+#     item["version"]=0
+#     DB.content_pet.update({'_id':item["_id"]},{'$set':item},True)
+
+for i,item in enumerate(DB.content_pet.find({"version":{ "$lt":int(task) }})):
+
     if item['title'].get('data') and item['content'].get('data'):
 
         curr_time = datetime.datetime.now()
@@ -78,15 +86,16 @@ for i,item in enumerate(DB.content_pet.find({})):
 
         # print(main_text)
         time_str="2020-12-01"
-
+        
         # url_title = md5(title)
         url_title=item["_id"]
-        mkdir(os.path.join(os.getcwd(),'content/post/',time_str))
+        path_name=url_title[:1]
+        mkdir(os.path.join(os.getcwd(),'content/post/',path_name))
         # name=f'{time_str}-{url_title[:50]}.md'
         name=f'{url_title}.md'
-        file_path=os.path.join(os.getcwd(),'content/post/',time_str,name)
+        file_path=os.path.join(os.getcwd(),'content/post/',path_name,name)
         f1 = open(file_path,'w+')
-        title=title.replace("...",'')
+        # title=title.replace("...",'')
         top_json={
             "title":title,
             "date":time_str,
@@ -108,3 +117,7 @@ for i,item in enumerate(DB.content_pet.find({})):
         f1.write(head)
         #关闭文件
         f1.close()
+
+        # 更新任务进度
+        item["version"]=int(task)
+        DB.content_pet.update({'_id':item["_id"]},{'$set':item},True)
