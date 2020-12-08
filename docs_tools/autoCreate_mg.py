@@ -46,7 +46,7 @@ def mkdir(path):
 
 
 # 重置内容增加这个参数
-task=1
+task=2
 
 
 
