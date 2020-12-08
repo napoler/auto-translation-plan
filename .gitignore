@@ -8,6 +8,9 @@ __pycache__/
 
 data
 
+docs_tools/content/post/
+docs_tools/content/page/
+docs_tools/config.toml
 # Distribution / packaging
 .Python
 build/
