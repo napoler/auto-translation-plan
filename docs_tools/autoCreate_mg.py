@@ -120,4 +120,4 @@ for i,item in enumerate(DB.content_pet.find({"version":{ "$lt":int(task) }})):
 
         # 更新任务进度
         item["version"]=int(task)
-        DB.content_pet.update({'_id':item["_id"]},{'$set':item},True)
+        DB.content_pet.update_one({'_id':item["_id"]},{'$set':item},True)
