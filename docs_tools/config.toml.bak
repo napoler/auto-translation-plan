@@ -1,6 +1,6 @@
 #j建议设置baseurl，可以减少问题
 #baseurl = "https://www.terrychan.org/hugoautodocs/"
-baseurl = "https://pet.pponnet.com/"
+baseurl = "/"
 contentdir    = "content"
 layoutdir     = "layouts"
 publishdir    = "../../public"

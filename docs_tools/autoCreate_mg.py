@@ -88,8 +88,8 @@ for i,item in enumerate(DB.content_pet.find({"version":{ "$lt":int(task) }})):
         time_str="2020-12-01"
         
         # url_title = md5(title)
-        url_title=item["_id"]
-        path_name=url_title[:1]
+        url_title=str(item["_id"])
+        path_name=url_title[:2]
         mkdir(os.path.join(os.getcwd(),'content/post/',path_name))
         # name=f'{time_str}-{url_title[:50]}.md'
         name=f'{url_title}.md'

@@ -7,7 +7,7 @@ __pycache__/
 *.so
 
 data
-
+docs
 docs_tools/content/post/
 docs_tools/content/page/
 docs_tools/config.toml
