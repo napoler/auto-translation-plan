@@ -4,7 +4,7 @@
 import random
 import datetime
 
-def random_date(start=begin, end=end):
+def random_date(start='', end=''):
     """Generate a random datetime between `start` and `end`"""
     return start + datetime.timedelta(
         # Get a random amount of seconds between `start` and `end`
@@ -12,7 +12,7 @@ def random_date(start=begin, end=end):
     )
 
 
-def yield_random_date(start=begin, end=end):
+def yield_random_date(start='', end=''):
     """Generate a random datetime between `start` and `end`"""
     delta = int((end - start).total_seconds())
     while True:

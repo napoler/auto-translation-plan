@@ -85,7 +85,10 @@ for i,item in enumerate(DB.content_pet.find({"version":{ "$lt":int(task) }})):
         # main_text = markdownify(main_text)
 
         # print(main_text)
-        time_str="2020-12-01"
+        if item.get("pubdate"):
+            time_str=item.get("pubdate")
+        else:
+            time_str="2020-12-01"
         
         # url_title = md5(title)
         url_title=str(item["_id"])
@@ -117,7 +120,7 @@ for i,item in enumerate(DB.content_pet.find({"version":{ "$lt":int(task) }})):
         f1.write(head)
         #关闭文件
         f1.close()
-
+        
         # 更新任务进度
         item["version"]=int(task)
         DB.content_pet.update_one({'_id':item["_id"]},{'$set':item},True)

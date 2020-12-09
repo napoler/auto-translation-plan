@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 import os
-
+import datetime
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 from tkitTranslator import Translator
@@ -30,6 +30,9 @@ scanResp= helpers.scan(client= es, query=query, scroll= "10m", index= index_v , 
 # Tjson=tkitJson.Json("data/data.json")
 items=[]
 for i,resp in enumerate(scanResp):
+    end_time=datetime.datetime.now()
+    start_time=datetime.datetime.now() + datetime.timedelta(days=-150) # 当前时间减去3分钟      
+    time_post=random_date(start=start_time,end=end_time) 
     qid = resp['_id']
     #尝试兼容旧的出重复
     md5id=md5(resp['_source']['title']+resp['_source']['content'])   
@@ -62,7 +65,7 @@ for i,resp in enumerate(scanResp):
             print(title)
             print(content)
             if content.get("data") and title.get("data"):
-                data=[{"title":title,"content":content,"_id":qid,"version":0,"type":"new","original":resp}]
+                data=[{"title":title,"content":content,"_id":qid,"version":0,"type":"new","pubdate":time_post,"original":resp}]
                 #添加数据
                 # Tjson.save(data)
                 DB.content_pet.update({'_id':qid},{'$set':data[0]},True)

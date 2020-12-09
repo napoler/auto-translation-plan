@@ -1,6 +1,6 @@
 # -*-coding:utf-8-*-
 import os
-
+import datetime
 from elasticsearch import Elasticsearch
 from elasticsearch import helpers
 from tkitTranslator import Translator
@@ -40,7 +40,9 @@ for i,resp in enumerate(OldDB.content_pet.find({})):
     # continue
     # if i >100:
     #     break
-        
+    end_time=datetime.datetime.now()
+    start_time=datetime.datetime.now() + datetime.timedelta(days=-150) # 当前时间减去3分钟      
+    time_post=random_date(start=start_time,end=end_time) 
     qid = resp['_id']
     
     #检查id是否存在，存在则内容已经翻译过跳过。
@@ -56,7 +58,7 @@ for i,resp in enumerate(OldDB.content_pet.find({})):
     if int(p)==0:
         #低质量
         data=[{"_id":qid,"version":0,"original":resp}]
-        DB.content_pet_bad.update({'_id':qid},{'$set':data[0]},True)
+        DB.content_pet_bad.update_one({'_id':qid},{'$set':data[0]},True)
         continue
     
     # continue
@@ -68,7 +70,7 @@ for i,resp in enumerate(OldDB.content_pet.find({})):
         #判别内容质量提取失败，加入到乎略内容列表
         items.append(resp['title'])
         data=[{"_id":qid,"version":0,"original":resp}]
-        DB.content_pet_bad.update({'_id':qid},{'$set':data[0]},True)
+        DB.content_pet_bad.update_one({'_id':qid},{'$set':data[0]},True)
     else:
         try:
             T = Translator()
@@ -79,10 +81,10 @@ for i,resp in enumerate(OldDB.content_pet.find({})):
             print(title)
             print(content)
             if content.get("data") and title.get("data"):
-                data=[{"title":title,"content":content,"_id":qid,"version":0,"type":"old","original":resp}]
+                data=[{"title":title,"content":content,"_id":qid,"version":0,"type":"old","pubdate":time_post,"original":resp}]
                 #添加数据
                 # Tjson.save(data)
-                DB.content_pet.update({'_id':qid},{'$set':data[0]},True)
+                DB.content_pet.update_one({'_id':qid},{'$set':data[0]},True)
 
         except:
             print("翻译失败")

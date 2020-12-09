@@ -104,3 +104,6 @@ for i,item in enumerate( Tjson.load()):
         f1.write(head)
         #关闭文件
         f1.close()
+        # 更新任务进度
+        # item["version"]=int(task)
+        # DB.content_pet.update_one({'_id':item["_id"]},{'$set':item},True)       
